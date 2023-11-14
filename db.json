@@ -3,8 +3,8 @@
     "id": 1,
     "name": {
       "english": "Bulbasaur",
-      "japanese": "\u30d5\u30b7\u30ae\u30c0\u30cd",
-      "chinese": "\u5999\u86d9\u79cd\u5b50",
+      "japanese": "フシギダネ",
+      "chinese": "妙蛙种子",
       "french": "Bulbizarre"
     },
     "type": [
@@ -34,8 +34,8 @@
     "id": 2,
     "name": {
       "english": "Ivysaur",
-      "japanese": "\u30d5\u30b7\u30ae\u30bd\u30a6",
-      "chinese": "\u5999\u86d9\u8349",
+      "japanese": "フシギソウ",
+      "chinese": "妙蛙草",
       "french": "Herbizarre"
     },
     "type": [
@@ -69,8 +69,8 @@
     "id": 3,
     "name": {
       "english": "Venusaur",
-      "japanese": "\u30d5\u30b7\u30ae\u30d0\u30ca",
-      "chinese": "\u5999\u86d9\u82b1",
+      "japanese": "フシギバナ",
+      "chinese": "妙蛙花",
       "french": "Florizarre"
     },
     "type": [
@@ -98,9 +98,9 @@
     "id": 4,
     "name": {
       "english": "Charmander",
-      "japanese": "\u30d2\u30c8\u30ab\u30b2",
-      "chinese": "\u5c0f\u706b\u9f99",
-      "french": "Salam\u00e8che"
+      "japanese": "ヒトカゲ",
+      "chinese": "小火龙",
+      "french": "Salamèche"
     },
     "type": [
       "Fire"
@@ -128,8 +128,8 @@
     "id": 5,
     "name": {
       "english": "Charmeleon",
-      "japanese": "\u30ea\u30b6\u30fc\u30c9",
-      "chinese": "\u706b\u6050\u9f99",
+      "japanese": "リザード",
+      "chinese": "火恐龙",
       "french": "Reptincel"
     },
     "type": [
@@ -162,8 +162,8 @@
     "id": 6,
     "name": {
       "english": "Charizard",
-      "japanese": "\u30ea\u30b6\u30fc\u30c9\u30f3",
-      "chinese": "\u55b7\u706b\u9f99",
+      "japanese": "リザードン",
+      "chinese": "喷火龙",
       "french": "Dracaufeu"
     },
     "type": [
@@ -191,8 +191,8 @@
     "id": 7,
     "name": {
       "english": "Squirtle",
-      "japanese": "\u30bc\u30cb\u30ac\u30e1",
-      "chinese": "\u6770\u5c3c\u9f9f",
+      "japanese": "ゼニガメ",
+      "chinese": "杰尼龟",
       "french": "Carapuce"
     },
     "type": [
@@ -221,8 +221,8 @@
     "id": 8,
     "name": {
       "english": "Wartortle",
-      "japanese": "\u30ab\u30e1\u30fc\u30eb",
-      "chinese": "\u5361\u54aa\u9f9f",
+      "japanese": "カメール",
+      "chinese": "卡咪龟",
       "french": "Carabaffe"
     },
     "type": [
@@ -255,8 +255,8 @@
     "id": 9,
     "name": {
       "english": "Blastoise",
-      "japanese": "\u30ab\u30e1\u30c3\u30af\u30b9",
-      "chinese": "\u6c34\u7bad\u9f9f",
+      "japanese": "カメックス",
+      "chinese": "水箭龟",
       "french": "Tortank"
     },
     "type": [
@@ -283,8 +283,8 @@
     "id": 10,
     "name": {
       "english": "Caterpie",
-      "japanese": "\u30ad\u30e3\u30bf\u30d4\u30fc",
-      "chinese": "\u7eff\u6bdb\u866b",
+      "japanese": "キャタピー",
+      "chinese": "绿毛虫",
       "french": "Chenipan"
     },
     "type": [
@@ -313,8 +313,8 @@
     "id": 11,
     "name": {
       "english": "Metapod",
-      "japanese": "\u30c8\u30e9\u30f3\u30bb\u30eb",
-      "chinese": "\u94c1\u7532\u86f9",
+      "japanese": "トランセル",
+      "chinese": "铁甲蛹",
       "french": "Chrysacier"
     },
     "type": [
@@ -347,8 +347,8 @@
     "id": 12,
     "name": {
       "english": "Butterfree",
-      "japanese": "\u30d0\u30bf\u30d5\u30ea\u30fc",
-      "chinese": "\u5df4\u5927\u8776",
+      "japanese": "バタフリー",
+      "chinese": "巴大蝶",
       "french": "Papilusion"
     },
     "type": [
@@ -376,8 +376,8 @@
     "id": 13,
     "name": {
       "english": "Weedle",
-      "japanese": "\u30d3\u30fc\u30c9\u30eb",
-      "chinese": "\u72ec\u89d2\u866b",
+      "japanese": "ビードル",
+      "chinese": "独角虫",
       "french": "Aspicot"
     },
     "type": [
@@ -407,8 +407,8 @@
     "id": 14,
     "name": {
       "english": "Kakuna",
-      "japanese": "\u30b3\u30af\u30fc\u30f3",
-      "chinese": "\u94c1\u58f3\u86f9",
+      "japanese": "コクーン",
+      "chinese": "铁壳蛹",
       "french": "Coconfort"
     },
     "type": [
@@ -442,8 +442,8 @@
     "id": 15,
     "name": {
       "english": "Beedrill",
-      "japanese": "\u30b9\u30d4\u30a2\u30fc",
-      "chinese": "\u5927\u9488\u8702",
+      "japanese": "スピアー",
+      "chinese": "大针蜂",
       "french": "Dardargnan"
     },
     "type": [
@@ -471,8 +471,8 @@
     "id": 16,
     "name": {
       "english": "Pidgey",
-      "japanese": "\u30dd\u30c3\u30dd",
-      "chinese": "\u6ce2\u6ce2",
+      "japanese": "ポッポ",
+      "chinese": "波波",
       "french": "Roucool"
     },
     "type": [
@@ -502,8 +502,8 @@
     "id": 17,
     "name": {
       "english": "Pidgeotto",
-      "japanese": "\u30d4\u30b8\u30e7\u30f3",
-      "chinese": "\u6bd4\u6bd4\u9e1f",
+      "japanese": "ピジョン",
+      "chinese": "比比鸟",
       "french": "Roucoups"
     },
     "type": [
@@ -537,8 +537,8 @@
     "id": 18,
     "name": {
       "english": "Pidgeot",
-      "japanese": "\u30d4\u30b8\u30e7\u30c3\u30c8",
-      "chinese": "\u5927\u6bd4\u9e1f",
+      "japanese": "ピジョット",
+      "chinese": "大比鸟",
       "french": "Roucarnage"
     },
     "type": [
@@ -566,8 +566,8 @@
     "id": 19,
     "name": {
       "english": "Rattata",
-      "japanese": "\u30b3\u30e9\u30c3\u30bf",
-      "chinese": "\u5c0f\u62c9\u8fbe",
+      "japanese": "コラッタ",
+      "chinese": "小拉达",
       "french": "Rattata"
     },
     "type": [
@@ -596,8 +596,8 @@
     "id": 20,
     "name": {
       "english": "Raticate",
-      "japanese": "\u30e9\u30c3\u30bf",
-      "chinese": "\u62c9\u8fbe",
+      "japanese": "ラッタ",
+      "chinese": "拉达",
       "french": "Rattatac"
     },
     "type": [
@@ -624,8 +624,8 @@
     "id": 21,
     "name": {
       "english": "Spearow",
-      "japanese": "\u30aa\u30cb\u30b9\u30ba\u30e1",
-      "chinese": "\u70c8\u96c0",
+      "japanese": "オニスズメ",
+      "chinese": "烈雀",
       "french": "Piafabec"
     },
     "type": [
@@ -655,8 +655,8 @@
     "id": 22,
     "name": {
       "english": "Fearow",
-      "japanese": "\u30aa\u30cb\u30c9\u30ea\u30eb",
-      "chinese": "\u5927\u5634\u96c0",
+      "japanese": "オニドリル",
+      "chinese": "大嘴雀",
       "french": "Rapasdepic"
     },
     "type": [
@@ -684,8 +684,8 @@
     "id": 23,
     "name": {
       "english": "Ekans",
-      "japanese": "\u30a2\u30fc\u30dc",
-      "chinese": "\u963f\u67cf\u86c7",
+      "japanese": "アーボ",
+      "chinese": "阿柏蛇",
       "french": "Abo"
     },
     "type": [
@@ -714,8 +714,8 @@
     "id": 24,
     "name": {
       "english": "Arbok",
-      "japanese": "\u30a2\u30fc\u30dc\u30c3\u30af",
-      "chinese": "\u963f\u67cf\u602a",
+      "japanese": "アーボック",
+      "chinese": "阿柏怪",
       "french": "Arbok"
     },
     "type": [
@@ -742,8 +742,8 @@
     "id": 25,
     "name": {
       "english": "Pikachu",
-      "japanese": "\u30d4\u30ab\u30c1\u30e5\u30a6",
-      "chinese": "\u76ae\u5361\u4e18",
+      "japanese": "ピカチュウ",
+      "chinese": "皮卡丘",
       "french": "Pikachu"
     },
     "type": [
@@ -776,8 +776,8 @@
     "id": 26,
     "name": {
       "english": "Raichu",
-      "japanese": "\u30e9\u30a4\u30c1\u30e5\u30a6",
-      "chinese": "\u96f7\u4e18",
+      "japanese": "ライチュウ",
+      "chinese": "雷丘",
       "french": "Raichu"
     },
     "type": [
@@ -804,8 +804,8 @@
     "id": 27,
     "name": {
       "english": "Sandshrew",
-      "japanese": "\u30b5\u30f3\u30c9",
-      "chinese": "\u7a7f\u5c71\u9f20",
+      "japanese": "サンド",
+      "chinese": "穿山鼠",
       "french": "Sabelette"
     },
     "type": [
@@ -834,8 +834,8 @@
     "id": 28,
     "name": {
       "english": "Sandslash",
-      "japanese": "\u30b5\u30f3\u30c9\u30d1\u30f3",
-      "chinese": "\u7a7f\u5c71\u738b",
+      "japanese": "サンドパン",
+      "chinese": "穿山王",
       "french": "Sablaireau"
     },
     "type": [
@@ -861,10 +861,10 @@
   {
     "id": 29,
     "name": {
-      "english": "Nidoran\u2640",
-      "japanese": "\u30cb\u30c9\u30e9\u30f3\u2640",
-      "chinese": "\u5c3c\u591a\u5170",
-      "french": "Nidoran\u2640"
+      "english": "Nidoran♀",
+      "japanese": "ニドラン♀",
+      "chinese": "尼多兰",
+      "french": "Nidoran♀"
     },
     "type": [
       "Poison"
@@ -892,8 +892,8 @@
     "id": 30,
     "name": {
       "english": "Nidorina",
-      "japanese": "\u30cb\u30c9\u30ea\u30fc\u30ca",
-      "chinese": "\u5c3c\u591a\u5a1c",
+      "japanese": "ニドリーナ",
+      "chinese": "尼多娜",
       "french": "Nidorina"
     },
     "type": [
@@ -926,8 +926,8 @@
     "id": 31,
     "name": {
       "english": "Nidoqueen",
-      "japanese": "\u30cb\u30c9\u30af\u30a4\u30f3",
-      "chinese": "\u5c3c\u591a\u540e",
+      "japanese": "ニドクイン",
+      "chinese": "尼多后",
       "french": "Nidoqueen"
     },
     "type": [
@@ -954,10 +954,10 @@
   {
     "id": 32,
     "name": {
-      "english": "Nidoran\u2642",
-      "japanese": "\u30cb\u30c9\u30e9\u30f3\u2642",
-      "chinese": "\u5c3c\u591a\u6717",
-      "french": "Nidoran\u2642"
+      "english": "Nidoran♂",
+      "japanese": "ニドラン♂",
+      "chinese": "尼多朗",
+      "french": "Nidoran♂"
     },
     "type": [
       "Poison"
@@ -985,8 +985,8 @@
     "id": 33,
     "name": {
       "english": "Nidorino",
-      "japanese": "\u30cb\u30c9\u30ea\u30fc\u30ce",
-      "chinese": "\u5c3c\u591a\u529b\u8bfa",
+      "japanese": "ニドリーノ",
+      "chinese": "尼多力诺",
       "french": "Nidorino"
     },
     "type": [
@@ -1019,8 +1019,8 @@
     "id": 34,
     "name": {
       "english": "Nidoking",
-      "japanese": "\u30cb\u30c9\u30ad\u30f3\u30b0",
-      "chinese": "\u5c3c\u591a\u738b",
+      "japanese": "ニドキング",
+      "chinese": "尼多王",
       "french": "Nidoking"
     },
     "type": [
@@ -1048,9 +1048,9 @@
     "id": 35,
     "name": {
       "english": "Clefairy",
-      "japanese": "\u30d4\u30c3\u30d4",
-      "chinese": "\u76ae\u76ae",
-      "french": "M\u00e9lof\u00e9e"
+      "japanese": "ピッピ",
+      "chinese": "皮皮",
+      "french": "Mélofée"
     },
     "type": [
       "Fairy"
@@ -1082,9 +1082,9 @@
     "id": 36,
     "name": {
       "english": "Clefable",
-      "japanese": "\u30d4\u30af\u30b7\u30fc",
-      "chinese": "\u76ae\u53ef\u897f",
-      "french": "M\u00e9lodelfe"
+      "japanese": "ピクシー",
+      "chinese": "皮可西",
+      "french": "Mélodelfe"
     },
     "type": [
       "Fairy"
@@ -1110,8 +1110,8 @@
     "id": 37,
     "name": {
       "english": "Vulpix",
-      "japanese": "\u30ed\u30b3\u30f3",
-      "chinese": "\u516d\u5c3e",
+      "japanese": "ロコン",
+      "chinese": "六尾",
       "french": "Goupix"
     },
     "type": [
@@ -1140,8 +1140,8 @@
     "id": 38,
     "name": {
       "english": "Ninetales",
-      "japanese": "\u30ad\u30e5\u30a6\u30b3\u30f3",
-      "chinese": "\u4e5d\u5c3e",
+      "japanese": "キュウコン",
+      "chinese": "九尾",
       "french": "Feunard"
     },
     "type": [
@@ -1168,8 +1168,8 @@
     "id": 39,
     "name": {
       "english": "Jigglypuff",
-      "japanese": "\u30d7\u30ea\u30f3",
-      "chinese": "\u80d6\u4e01",
+      "japanese": "プリン",
+      "chinese": "胖丁",
       "french": "Rondoudou"
     },
     "type": [
@@ -1203,8 +1203,8 @@
     "id": 40,
     "name": {
       "english": "Wigglytuff",
-      "japanese": "\u30d7\u30af\u30ea\u30f3",
-      "chinese": "\u80d6\u53ef\u4e01",
+      "japanese": "プクリン",
+      "chinese": "胖可丁",
       "french": "Grodoudou"
     },
     "type": [
@@ -1232,8 +1232,8 @@
     "id": 41,
     "name": {
       "english": "Zubat",
-      "japanese": "\u30ba\u30d0\u30c3\u30c8",
-      "chinese": "\u8d85\u97f3\u8760",
+      "japanese": "ズバット",
+      "chinese": "超音蝠",
       "french": "Nosferapti"
     },
     "type": [
@@ -1263,8 +1263,8 @@
     "id": 42,
     "name": {
       "english": "Golbat",
-      "japanese": "\u30b4\u30eb\u30d0\u30c3\u30c8",
-      "chinese": "\u5927\u5634\u8760",
+      "japanese": "ゴルバット",
+      "chinese": "大嘴蝠",
       "french": "Nosferalto"
     },
     "type": [
@@ -1298,8 +1298,8 @@
     "id": 43,
     "name": {
       "english": "Oddish",
-      "japanese": "\u30ca\u30be\u30ce\u30af\u30b5",
-      "chinese": "\u8d70\u8def\u8349",
+      "japanese": "ナゾノクサ",
+      "chinese": "走路草",
       "french": "Mystherbe"
     },
     "type": [
@@ -1329,8 +1329,8 @@
     "id": 44,
     "name": {
       "english": "Gloom",
-      "japanese": "\u30af\u30b5\u30a4\u30cf\u30ca",
-      "chinese": "\u81ed\u81ed\u82b1",
+      "japanese": "クサイハナ",
+      "chinese": "臭臭花",
       "french": "Ortide"
     },
     "type": [
@@ -1368,8 +1368,8 @@
     "id": 45,
     "name": {
       "english": "Vileplume",
-      "japanese": "\u30e9\u30d5\u30ec\u30b7\u30a2",
-      "chinese": "\u9738\u738b\u82b1",
+      "japanese": "ラフレシア",
+      "chinese": "霸王花",
       "french": "Rafflesia"
     },
     "type": [
@@ -1397,8 +1397,8 @@
     "id": 46,
     "name": {
       "english": "Paras",
-      "japanese": "\u30d1\u30e9\u30b9",
-      "chinese": "\u6d3e\u62c9\u65af",
+      "japanese": "パラス",
+      "chinese": "派拉斯",
       "french": "Paras"
     },
     "type": [
@@ -1428,8 +1428,8 @@
     "id": 47,
     "name": {
       "english": "Parasect",
-      "japanese": "\u30d1\u30e9\u30bb\u30af\u30c8",
-      "chinese": "\u6d3e\u62c9\u65af\u7279",
+      "japanese": "パラセクト",
+      "chinese": "派拉斯特",
       "french": "Parasect"
     },
     "type": [
@@ -1457,8 +1457,8 @@
     "id": 48,
     "name": {
       "english": "Venonat",
-      "japanese": "\u30b3\u30f3\u30d1\u30f3",
-      "chinese": "\u6bdb\u7403",
+      "japanese": "コンパン",
+      "chinese": "毛球",
       "french": "Mimitoss"
     },
     "type": [
@@ -1488,9 +1488,9 @@
     "id": 49,
     "name": {
       "english": "Venomoth",
-      "japanese": "\u30e2\u30eb\u30d5\u30a9\u30f3",
-      "chinese": "\u6469\u9c81\u86fe",
-      "french": "A\u00e9romite"
+      "japanese": "モルフォン",
+      "chinese": "摩鲁蛾",
+      "french": "Aéromite"
     },
     "type": [
       "Bug",
@@ -1517,8 +1517,8 @@
     "id": 50,
     "name": {
       "english": "Diglett",
-      "japanese": "\u30c7\u30a3\u30b0\u30c0",
-      "chinese": "\u5730\u9f20",
+      "japanese": "ディグダ",
+      "chinese": "地鼠",
       "french": "Taupiqueur"
     },
     "type": [
@@ -1547,8 +1547,8 @@
     "id": 51,
     "name": {
       "english": "Dugtrio",
-      "japanese": "\u30c0\u30b0\u30c8\u30ea\u30aa",
-      "chinese": "\u4e09\u5730\u9f20",
+      "japanese": "ダグトリオ",
+      "chinese": "三地鼠",
       "french": "Triopikeur"
     },
     "type": [
@@ -1575,8 +1575,8 @@
     "id": 52,
     "name": {
       "english": "Meowth",
-      "japanese": "\u30cb\u30e3\u30fc\u30b9",
-      "chinese": "\u55b5\u55b5",
+      "japanese": "ニャース",
+      "chinese": "喵喵",
       "french": "Miaouss"
     },
     "type": [
@@ -1605,8 +1605,8 @@
     "id": 53,
     "name": {
       "english": "Persian",
-      "japanese": "\u30da\u30eb\u30b7\u30a2\u30f3",
-      "chinese": "\u732b\u8001\u5927",
+      "japanese": "ペルシアン",
+      "chinese": "猫老大",
       "french": "Persian"
     },
     "type": [
@@ -1633,8 +1633,8 @@
     "id": 54,
     "name": {
       "english": "Psyduck",
-      "japanese": "\u30b3\u30c0\u30c3\u30af",
-      "chinese": "\u53ef\u8fbe\u9e2d",
+      "japanese": "コダック",
+      "chinese": "可达鸭",
       "french": "Psykokwak"
     },
     "type": [
@@ -1663,8 +1663,8 @@
     "id": 55,
     "name": {
       "english": "Golduck",
-      "japanese": "\u30b4\u30eb\u30c0\u30c3\u30af",
-      "chinese": "\u54e5\u8fbe\u9e2d",
+      "japanese": "ゴルダック",
+      "chinese": "哥达鸭",
       "french": "Akwakwak"
     },
     "type": [
@@ -1691,9 +1691,9 @@
     "id": 56,
     "name": {
       "english": "Mankey",
-      "japanese": "\u30de\u30f3\u30ad\u30fc",
-      "chinese": "\u7334\u602a",
-      "french": "F\u00e9rosinge"
+      "japanese": "マンキー",
+      "chinese": "猴怪",
+      "french": "Férosinge"
     },
     "type": [
       "Fighting"
@@ -1721,8 +1721,8 @@
     "id": 57,
     "name": {
       "english": "Primeape",
-      "japanese": "\u30aa\u30b3\u30ea\u30b6\u30eb",
-      "chinese": "\u706b\u66b4\u7334",
+      "japanese": "オコリザル",
+      "chinese": "火暴猴",
       "french": "Colossinge"
     },
     "type": [
@@ -1749,8 +1749,8 @@
     "id": 58,
     "name": {
       "english": "Growlithe",
-      "japanese": "\u30ac\u30fc\u30c7\u30a3",
-      "chinese": "\u5361\u8482\u72d7",
+      "japanese": "ガーディ",
+      "chinese": "卡蒂狗",
       "french": "Caninos"
     },
     "type": [
@@ -1779,8 +1779,8 @@
     "id": 59,
     "name": {
       "english": "Arcanine",
-      "japanese": "\u30a6\u30a4\u30f3\u30c7\u30a3",
-      "chinese": "\u98ce\u901f\u72d7",
+      "japanese": "ウインディ",
+      "chinese": "风速狗",
       "french": "Arcanin"
     },
     "type": [
@@ -1807,8 +1807,8 @@
     "id": 60,
     "name": {
       "english": "Poliwag",
-      "japanese": "\u30cb\u30e7\u30ed\u30e2",
-      "chinese": "\u868a\u9999\u874c\u86aa",
+      "japanese": "ニョロモ",
+      "chinese": "蚊香蝌蚪",
       "french": "Ptitard"
     },
     "type": [
@@ -1837,9 +1837,9 @@
     "id": 61,
     "name": {
       "english": "Poliwhirl",
-      "japanese": "\u30cb\u30e7\u30ed\u30be",
-      "chinese": "\u868a\u9999\u541b",
-      "french": "T\u00eatarte"
+      "japanese": "ニョロゾ",
+      "chinese": "蚊香君",
+      "french": "Têtarte"
     },
     "type": [
       "Water"
@@ -1875,8 +1875,8 @@
     "id": 62,
     "name": {
       "english": "Poliwrath",
-      "japanese": "\u30cb\u30e7\u30ed\u30dc\u30f3",
-      "chinese": "\u868a\u9999\u6cf3\u58eb",
+      "japanese": "ニョロボン",
+      "chinese": "蚊香泳士",
       "french": "Tartard"
     },
     "type": [
@@ -1904,8 +1904,8 @@
     "id": 63,
     "name": {
       "english": "Abra",
-      "japanese": "\u30b1\u30fc\u30b7\u30a3",
-      "chinese": "\u51ef\u897f",
+      "japanese": "ケーシィ",
+      "chinese": "凯西",
       "french": "Abra"
     },
     "type": [
@@ -1934,8 +1934,8 @@
     "id": 64,
     "name": {
       "english": "Kadabra",
-      "japanese": "\u30e6\u30f3\u30b2\u30e9\u30fc",
-      "chinese": "\u52c7\u57fa\u62c9",
+      "japanese": "ユンゲラー",
+      "chinese": "勇基拉",
       "french": "Kadabra"
     },
     "type": [
@@ -1968,8 +1968,8 @@
     "id": 65,
     "name": {
       "english": "Alakazam",
-      "japanese": "\u30d5\u30fc\u30c7\u30a3\u30f3",
-      "chinese": "\u80e1\u5730",
+      "japanese": "フーディン",
+      "chinese": "胡地",
       "french": "Alakazam"
     },
     "type": [
@@ -1996,8 +1996,8 @@
     "id": 66,
     "name": {
       "english": "Machop",
-      "japanese": "\u30ef\u30f3\u30ea\u30ad\u30fc",
-      "chinese": "\u8155\u529b",
+      "japanese": "ワンリキー",
+      "chinese": "腕力",
       "french": "Machoc"
     },
     "type": [
@@ -2026,8 +2026,8 @@
     "id": 67,
     "name": {
       "english": "Machoke",
-      "japanese": "\u30b4\u30fc\u30ea\u30ad\u30fc",
-      "chinese": "\u8c6a\u529b",
+      "japanese": "ゴーリキー",
+      "chinese": "豪力",
       "french": "Machopeur"
     },
     "type": [
@@ -2060,8 +2060,8 @@
     "id": 68,
     "name": {
       "english": "Machamp",
-      "japanese": "\u30ab\u30a4\u30ea\u30ad\u30fc",
-      "chinese": "\u602a\u529b",
+      "japanese": "カイリキー",
+      "chinese": "怪力",
       "french": "Mackogneur"
     },
     "type": [
@@ -2088,9 +2088,9 @@
     "id": 69,
     "name": {
       "english": "Bellsprout",
-      "japanese": "\u30de\u30c0\u30c4\u30dc\u30df",
-      "chinese": "\u5587\u53ed\u82bd",
-      "french": "Ch\u00e9tiflor"
+      "japanese": "マダツボミ",
+      "chinese": "喇叭芽",
+      "french": "Chétiflor"
     },
     "type": [
       "Grass",
@@ -2119,8 +2119,8 @@
     "id": 70,
     "name": {
       "english": "Weepinbell",
-      "japanese": "\u30a6\u30c4\u30c9\u30f3",
-      "chinese": "\u53e3\u5446\u82b1",
+      "japanese": "ウツドン",
+      "chinese": "口呆花",
       "french": "Boustiflor"
     },
     "type": [
@@ -2154,8 +2154,8 @@
     "id": 71,
     "name": {
       "english": "Victreebel",
-      "japanese": "\u30a6\u30c4\u30dc\u30c3\u30c8",
-      "chinese": "\u5927\u98df\u82b1",
+      "japanese": "ウツボット",
+      "chinese": "大食花",
       "french": "Empiflor"
     },
     "type": [
@@ -2183,8 +2183,8 @@
     "id": 72,
     "name": {
       "english": "Tentacool",
-      "japanese": "\u30e1\u30ce\u30af\u30e9\u30b2",
-      "chinese": "\u739b\u7459\u6c34\u6bcd",
+      "japanese": "メノクラゲ",
+      "chinese": "玛瑙水母",
       "french": "Tentacool"
     },
     "type": [
@@ -2214,8 +2214,8 @@
     "id": 73,
     "name": {
       "english": "Tentacruel",
-      "japanese": "\u30c9\u30af\u30af\u30e9\u30b2",
-      "chinese": "\u6bd2\u523a\u6c34\u6bcd",
+      "japanese": "ドククラゲ",
+      "chinese": "毒刺水母",
       "french": "Tentacruel"
     },
     "type": [
@@ -2243,8 +2243,8 @@
     "id": 74,
     "name": {
       "english": "Geodude",
-      "japanese": "\u30a4\u30b7\u30c4\u30d6\u30c6",
-      "chinese": "\u5c0f\u62f3\u77f3",
+      "japanese": "イシツブテ",
+      "chinese": "小拳石",
       "french": "Racaillou"
     },
     "type": [
@@ -2274,8 +2274,8 @@
     "id": 75,
     "name": {
       "english": "Graveler",
-      "japanese": "\u30b4\u30ed\u30fc\u30f3",
-      "chinese": "\u9686\u9686\u77f3",
+      "japanese": "ゴローン",
+      "chinese": "隆隆石",
       "french": "Gravalanch"
     },
     "type": [
@@ -2309,8 +2309,8 @@
     "id": 76,
     "name": {
       "english": "Golem",
-      "japanese": "\u30b4\u30ed\u30fc\u30cb\u30e3",
-      "chinese": "\u9686\u9686\u5ca9",
+      "japanese": "ゴローニャ",
+      "chinese": "隆隆岩",
       "french": "Grolem"
     },
     "type": [
@@ -2338,8 +2338,8 @@
     "id": 77,
     "name": {
       "english": "Ponyta",
-      "japanese": "\u30dd\u30cb\u30fc\u30bf",
-      "chinese": "\u5c0f\u706b\u9a6c",
+      "japanese": "ポニータ",
+      "chinese": "小火马",
       "french": "Ponyta"
     },
     "type": [
@@ -2368,8 +2368,8 @@
     "id": 78,
     "name": {
       "english": "Rapidash",
-      "japanese": "\u30ae\u30e3\u30ed\u30c3\u30d7",
-      "chinese": "\u70c8\u7130\u9a6c",
+      "japanese": "ギャロップ",
+      "chinese": "烈焰马",
       "french": "Galopa"
     },
     "type": [
@@ -2396,8 +2396,8 @@
     "id": 79,
     "name": {
       "english": "Slowpoke",
-      "japanese": "\u30e4\u30c9\u30f3",
-      "chinese": "\u5446\u5446\u517d",
+      "japanese": "ヤドン",
+      "chinese": "呆呆兽",
       "french": "Ramoloss"
     },
     "type": [
@@ -2431,8 +2431,8 @@
     "id": 80,
     "name": {
       "english": "Slowbro",
-      "japanese": "\u30e4\u30c9\u30e9\u30f3",
-      "chinese": "\u5446\u58f3\u517d",
+      "japanese": "ヤドラン",
+      "chinese": "呆壳兽",
       "french": "Flagadoss"
     },
     "type": [
@@ -2460,9 +2460,9 @@
     "id": 81,
     "name": {
       "english": "Magnemite",
-      "japanese": "\u30b3\u30a4\u30eb",
-      "chinese": "\u5c0f\u78c1\u602a",
-      "french": "Magn\u00e9ti"
+      "japanese": "コイル",
+      "chinese": "小磁怪",
+      "french": "Magnéti"
     },
     "type": [
       "Electric",
@@ -2491,9 +2491,9 @@
     "id": 82,
     "name": {
       "english": "Magneton",
-      "japanese": "\u30ec\u30a2\u30b3\u30a4\u30eb",
-      "chinese": "\u4e09\u5408\u4e00\u78c1\u602a",
-      "french": "Magn\u00e9ton"
+      "japanese": "レアコイル",
+      "chinese": "三合一磁怪",
+      "french": "Magnéton"
     },
     "type": [
       "Electric",
@@ -2526,8 +2526,8 @@
     "id": 83,
     "name": {
       "english": "Farfetch'd",
-      "japanese": "\u30ab\u30e2\u30cd\u30ae",
-      "chinese": "\u5927\u8471\u9e2d",
+      "japanese": "カモネギ",
+      "chinese": "大葱鸭",
       "french": "Canarticho"
     },
     "type": [
@@ -2550,8 +2550,8 @@
     "id": 84,
     "name": {
       "english": "Doduo",
-      "japanese": "\u30c9\u30fc\u30c9\u30fc",
-      "chinese": "\u561f\u561f",
+      "japanese": "ドードー",
+      "chinese": "嘟嘟",
       "french": "Doduo"
     },
     "type": [
@@ -2581,8 +2581,8 @@
     "id": 85,
     "name": {
       "english": "Dodrio",
-      "japanese": "\u30c9\u30fc\u30c9\u30ea\u30aa",
-      "chinese": "\u561f\u561f\u5229",
+      "japanese": "ドードリオ",
+      "chinese": "嘟嘟利",
       "french": "Dodrio"
     },
     "type": [
@@ -2610,8 +2610,8 @@
     "id": 86,
     "name": {
       "english": "Seel",
-      "japanese": "\u30d1\u30a6\u30ef\u30a6",
-      "chinese": "\u5c0f\u6d77\u72ee",
+      "japanese": "パウワウ",
+      "chinese": "小海狮",
       "french": "Otaria"
     },
     "type": [
@@ -2640,8 +2640,8 @@
     "id": 87,
     "name": {
       "english": "Dewgong",
-      "japanese": "\u30b8\u30e5\u30b4\u30f3",
-      "chinese": "\u767d\u6d77\u72ee",
+      "japanese": "ジュゴン",
+      "chinese": "白海狮",
       "french": "Lamantine"
     },
     "type": [
@@ -2669,8 +2669,8 @@
     "id": 88,
     "name": {
       "english": "Grimer",
-      "japanese": "\u30d9\u30c8\u30d9\u30bf\u30fc",
-      "chinese": "\u81ed\u6ce5",
+      "japanese": "ベトベター",
+      "chinese": "臭泥",
       "french": "Tadmorv"
     },
     "type": [
@@ -2699,8 +2699,8 @@
     "id": 89,
     "name": {
       "english": "Muk",
-      "japanese": "\u30d9\u30c8\u30d9\u30c8\u30f3",
-      "chinese": "\u81ed\u81ed\u6ce5",
+      "japanese": "ベトベトン",
+      "chinese": "臭臭泥",
       "french": "Grotadmorv"
     },
     "type": [
@@ -2727,8 +2727,8 @@
     "id": 90,
     "name": {
       "english": "Shellder",
-      "japanese": "\u30b7\u30a7\u30eb\u30c0\u30fc",
-      "chinese": "\u5927\u820c\u8d1d",
+      "japanese": "シェルダー",
+      "chinese": "大舌贝",
       "french": "Kokiyas"
     },
     "type": [
@@ -2757,8 +2757,8 @@
     "id": 91,
     "name": {
       "english": "Cloyster",
-      "japanese": "\u30d1\u30eb\u30b7\u30a7\u30f3",
-      "chinese": "\u523a\u7532\u8d1d",
+      "japanese": "パルシェン",
+      "chinese": "刺甲贝",
       "french": "Crustabri"
     },
     "type": [
@@ -2786,8 +2786,8 @@
     "id": 92,
     "name": {
       "english": "Gastly",
-      "japanese": "\u30b4\u30fc\u30b9",
-      "chinese": "\u9b3c\u65af",
+      "japanese": "ゴース",
+      "chinese": "鬼斯",
       "french": "Fantominus"
     },
     "type": [
@@ -2817,8 +2817,8 @@
     "id": 93,
     "name": {
       "english": "Haunter",
-      "japanese": "\u30b4\u30fc\u30b9\u30c8",
-      "chinese": "\u9b3c\u65af\u901a",
+      "japanese": "ゴースト",
+      "chinese": "鬼斯通",
       "french": "Spectrum"
     },
     "type": [
@@ -2852,8 +2852,8 @@
     "id": 94,
     "name": {
       "english": "Gengar",
-      "japanese": "\u30b2\u30f3\u30ac\u30fc",
-      "chinese": "\u803f\u9b3c",
+      "japanese": "ゲンガー",
+      "chinese": "耿鬼",
       "french": "Ectoplasma"
     },
     "type": [
@@ -2881,8 +2881,8 @@
     "id": 95,
     "name": {
       "english": "Onix",
-      "japanese": "\u30a4\u30ef\u30fc\u30af",
-      "chinese": "\u5927\u5ca9\u86c7",
+      "japanese": "イワーク",
+      "chinese": "大岩蛇",
       "french": "Onix"
     },
     "type": [
@@ -2912,8 +2912,8 @@
     "id": 96,
     "name": {
       "english": "Drowzee",
-      "japanese": "\u30b9\u30ea\u30fc\u30d7",
-      "chinese": "\u50ac\u7720\u8c98",
+      "japanese": "スリープ",
+      "chinese": "催眠貘",
       "french": "Soporifik"
     },
     "type": [
@@ -2942,8 +2942,8 @@
     "id": 97,
     "name": {
       "english": "Hypno",
-      "japanese": "\u30b9\u30ea\u30fc\u30d1\u30fc",
-      "chinese": "\u5f15\u68a6\u8c98\u4eba",
+      "japanese": "スリーパー",
+      "chinese": "引梦貘人",
       "french": "Hypnomade"
     },
     "type": [
@@ -2970,8 +2970,8 @@
     "id": 98,
     "name": {
       "english": "Krabby",
-      "japanese": "\u30af\u30e9\u30d6",
-      "chinese": "\u5927\u94b3\u87f9",
+      "japanese": "クラブ",
+      "chinese": "大钳蟹",
       "french": "Krabby"
     },
     "type": [
@@ -3000,8 +3000,8 @@
     "id": 99,
     "name": {
       "english": "Kingler",
-      "japanese": "\u30ad\u30f3\u30b0\u30e9\u30fc",
-      "chinese": "\u5de8\u94b3\u87f9",
+      "japanese": "キングラー",
+      "chinese": "巨钳蟹",
       "french": "Krabboss"
     },
     "type": [
@@ -3028,8 +3028,8 @@
     "id": 100,
     "name": {
       "english": "Voltorb",
-      "japanese": "\u30d3\u30ea\u30ea\u30c0\u30de",
-      "chinese": "\u9739\u96f3\u7535\u7403",
+      "japanese": "ビリリダマ",
+      "chinese": "霹雳电球",
       "french": "Voltorbe"
     },
     "type": [
@@ -3058,9 +3058,9 @@
     "id": 101,
     "name": {
       "english": "Electrode",
-      "japanese": "\u30de\u30eb\u30de\u30a4\u30f3",
-      "chinese": "\u987d\u76ae\u96f7\u5f39",
-      "french": "\u00c9lectrode"
+      "japanese": "マルマイン",
+      "chinese": "顽皮雷弹",
+      "french": "Électrode"
     },
     "type": [
       "Electric"
@@ -3086,8 +3086,8 @@
     "id": 102,
     "name": {
       "english": "Exeggcute",
-      "japanese": "\u30bf\u30de\u30bf\u30de",
-      "chinese": "\u86cb\u86cb",
+      "japanese": "タマタマ",
+      "chinese": "蛋蛋",
       "french": "Noeunoeuf"
     },
     "type": [
@@ -3117,8 +3117,8 @@
     "id": 103,
     "name": {
       "english": "Exeggutor",
-      "japanese": "\u30ca\u30c3\u30b7\u30fc",
-      "chinese": "\u6930\u86cb\u6811",
+      "japanese": "ナッシー",
+      "chinese": "椰蛋树",
       "french": "Noadkoko"
     },
     "type": [
@@ -3146,8 +3146,8 @@
     "id": 104,
     "name": {
       "english": "Cubone",
-      "japanese": "\u30ab\u30e9\u30ab\u30e9",
-      "chinese": "\u5361\u62c9\u5361\u62c9",
+      "japanese": "カラカラ",
+      "chinese": "卡拉卡拉",
       "french": "Osselait"
     },
     "type": [
@@ -3176,8 +3176,8 @@
     "id": 105,
     "name": {
       "english": "Marowak",
-      "japanese": "\u30ac\u30e9\u30ac\u30e9",
-      "chinese": "\u560e\u5566\u560e\u5566",
+      "japanese": "ガラガラ",
+      "chinese": "嘎啦嘎啦",
       "french": "Ossatueur"
     },
     "type": [
@@ -3204,8 +3204,8 @@
     "id": 106,
     "name": {
       "english": "Hitmonlee",
-      "japanese": "\u30b5\u30ef\u30e0\u30e9\u30fc",
-      "chinese": "\u98de\u817f\u90ce",
+      "japanese": "サワムラー",
+      "chinese": "飞腿郎",
       "french": "Kicklee"
     },
     "type": [
@@ -3232,8 +3232,8 @@
     "id": 107,
     "name": {
       "english": "Hitmonchan",
-      "japanese": "\u30a8\u30d3\u30ef\u30e9\u30fc",
-      "chinese": "\u5feb\u62f3\u90ce",
+      "japanese": "エビワラー",
+      "chinese": "快拳郎",
       "french": "Tygnon"
     },
     "type": [
@@ -3260,8 +3260,8 @@
     "id": 108,
     "name": {
       "english": "Lickitung",
-      "japanese": "\u30d9\u30ed\u30ea\u30f3\u30ac",
-      "chinese": "\u5927\u820c\u5934",
+      "japanese": "ベロリンガ",
+      "chinese": "大舌头",
       "french": "Excelangue"
     },
     "type": [
@@ -3290,8 +3290,8 @@
     "id": 109,
     "name": {
       "english": "Koffing",
-      "japanese": "\u30c9\u30ac\u30fc\u30b9",
-      "chinese": "\u74e6\u65af\u5f39",
+      "japanese": "ドガース",
+      "chinese": "瓦斯弹",
       "french": "Smogo"
     },
     "type": [
@@ -3320,8 +3320,8 @@
     "id": 110,
     "name": {
       "english": "Weezing",
-      "japanese": "\u30de\u30bf\u30c9\u30ac\u30b9",
-      "chinese": "\u53cc\u5f39\u74e6\u65af",
+      "japanese": "マタドガス",
+      "chinese": "双弹瓦斯",
       "french": "Smogogo"
     },
     "type": [
@@ -3348,8 +3348,8 @@
     "id": 111,
     "name": {
       "english": "Rhyhorn",
-      "japanese": "\u30b5\u30a4\u30db\u30fc\u30f3",
-      "chinese": "\u72ec\u89d2\u7280\u725b",
+      "japanese": "サイホーン",
+      "chinese": "独角犀牛",
       "french": "Rhinocorne"
     },
     "type": [
@@ -3379,9 +3379,9 @@
     "id": 112,
     "name": {
       "english": "Rhydon",
-      "japanese": "\u30b5\u30a4\u30c9\u30f3",
-      "chinese": "\u94bb\u89d2\u7280\u517d",
-      "french": "Rhinof\u00e9ros"
+      "japanese": "サイドン",
+      "chinese": "钻角犀兽",
+      "french": "Rhinoféros"
     },
     "type": [
       "Ground",
@@ -3414,8 +3414,8 @@
     "id": 113,
     "name": {
       "english": "Chansey",
-      "japanese": "\u30e9\u30c3\u30ad\u30fc",
-      "chinese": "\u5409\u5229\u86cb",
+      "japanese": "ラッキー",
+      "chinese": "吉利蛋",
       "french": "Leveinard"
     },
     "type": [
@@ -3448,8 +3448,8 @@
     "id": 114,
     "name": {
       "english": "Tangela",
-      "japanese": "\u30e2\u30f3\u30b8\u30e3\u30e9",
-      "chinese": "\u8513\u85e4\u602a",
+      "japanese": "モンジャラ",
+      "chinese": "蔓藤怪",
       "french": "Saquedeneu"
     },
     "type": [
@@ -3478,8 +3478,8 @@
     "id": 115,
     "name": {
       "english": "Kangaskhan",
-      "japanese": "\u30ac\u30eb\u30fc\u30e9",
-      "chinese": "\u888b\u517d",
+      "japanese": "ガルーラ",
+      "chinese": "袋兽",
       "french": "Kangourex"
     },
     "type": [
@@ -3501,8 +3501,8 @@
     "id": 116,
     "name": {
       "english": "Horsea",
-      "japanese": "\u30bf\u30c3\u30c4\u30fc",
-      "chinese": "\u58a8\u6d77\u9a6c",
+      "japanese": "タッツー",
+      "chinese": "墨海马",
       "french": "Hypotrempe"
     },
     "type": [
@@ -3531,9 +3531,9 @@
     "id": 117,
     "name": {
       "english": "Seadra",
-      "japanese": "\u30b7\u30fc\u30c9\u30e9",
-      "chinese": "\u6d77\u523a\u9f99",
-      "french": "Hypoc\u00e9an"
+      "japanese": "シードラ",
+      "chinese": "海刺龙",
+      "french": "Hypocéan"
     },
     "type": [
       "Water"
@@ -3565,9 +3565,9 @@
     "id": 118,
     "name": {
       "english": "Goldeen",
-      "japanese": "\u30c8\u30b5\u30ad\u30f3\u30c8",
-      "chinese": "\u89d2\u91d1\u9c7c",
-      "french": "Poissir\u00e8ne"
+      "japanese": "トサキント",
+      "chinese": "角金鱼",
+      "french": "Poissirène"
     },
     "type": [
       "Water"
@@ -3595,8 +3595,8 @@
     "id": 119,
     "name": {
       "english": "Seaking",
-      "japanese": "\u30a2\u30ba\u30de\u30aa\u30a6",
-      "chinese": "\u91d1\u9c7c\u738b",
+      "japanese": "アズマオウ",
+      "chinese": "金鱼王",
       "french": "Poissoroy"
     },
     "type": [
@@ -3623,8 +3623,8 @@
     "id": 120,
     "name": {
       "english": "Staryu",
-      "japanese": "\u30d2\u30c8\u30c7\u30de\u30f3",
-      "chinese": "\u6d77\u661f\u661f",
+      "japanese": "ヒトデマン",
+      "chinese": "海星星",
       "french": "Stari"
     },
     "type": [
@@ -3653,8 +3653,8 @@
     "id": 121,
     "name": {
       "english": "Starmie",
-      "japanese": "\u30b9\u30bf\u30fc\u30df\u30fc",
-      "chinese": "\u5b9d\u77f3\u6d77\u661f",
+      "japanese": "スターミー",
+      "chinese": "宝石海星",
       "french": "Staross"
     },
     "type": [
@@ -3682,8 +3682,8 @@
     "id": 122,
     "name": {
       "english": "Mr. Mime",
-      "japanese": "\u30d0\u30ea\u30e4\u30fc\u30c9",
-      "chinese": "\u9b54\u5899\u4eba\u5076",
+      "japanese": "バリヤード",
+      "chinese": "魔墙人偶",
       "french": "M. Mime"
     },
     "type": [
@@ -3711,9 +3711,9 @@
     "id": 123,
     "name": {
       "english": "Scyther",
-      "japanese": "\u30b9\u30c8\u30e9\u30a4\u30af",
-      "chinese": "\u98de\u5929\u87b3\u8782",
-      "french": "Ins\u00e9cateur"
+      "japanese": "ストライク",
+      "chinese": "飞天螳螂",
+      "french": "Insécateur"
     },
     "type": [
       "Bug",
@@ -3742,8 +3742,8 @@
     "id": 124,
     "name": {
       "english": "Jynx",
-      "japanese": "\u30eb\u30fc\u30b8\u30e5\u30e9",
-      "chinese": "\u8ff7\u5507\u59d0",
+      "japanese": "ルージュラ",
+      "chinese": "迷唇姐",
       "french": "Lippoutou"
     },
     "type": [
@@ -3771,9 +3771,9 @@
     "id": 125,
     "name": {
       "english": "Electabuzz",
-      "japanese": "\u30a8\u30ec\u30d6\u30fc",
-      "chinese": "\u7535\u51fb\u517d",
-      "french": "\u00c9lektek"
+      "japanese": "エレブー",
+      "chinese": "电击兽",
+      "french": "Élektek"
     },
     "type": [
       "Electric"
@@ -3805,8 +3805,8 @@
     "id": 126,
     "name": {
       "english": "Magmar",
-      "japanese": "\u30d6\u30fc\u30d0\u30fc",
-      "chinese": "\u9e2d\u5634\u706b\u517d",
+      "japanese": "ブーバー",
+      "chinese": "鸭嘴火兽",
       "french": "Magmar"
     },
     "type": [
@@ -3839,8 +3839,8 @@
     "id": 127,
     "name": {
       "english": "Pinsir",
-      "japanese": "\u30ab\u30a4\u30ed\u30b9",
-      "chinese": "\u51ef\u7f57\u65af",
+      "japanese": "カイロス",
+      "chinese": "凯罗斯",
       "french": "Scarabrute"
     },
     "type": [
@@ -3862,8 +3862,8 @@
     "id": 128,
     "name": {
       "english": "Tauros",
-      "japanese": "\u30b1\u30f3\u30bf\u30ed\u30b9",
-      "chinese": "\u80af\u6cf0\u7f57",
+      "japanese": "ケンタロス",
+      "chinese": "肯泰罗",
       "french": "Tauros"
     },
     "type": [
@@ -3885,8 +3885,8 @@
     "id": 129,
     "name": {
       "english": "Magikarp",
-      "japanese": "\u30b3\u30a4\u30ad\u30f3\u30b0",
-      "chinese": "\u9ca4\u9c7c\u738b",
+      "japanese": "コイキング",
+      "chinese": "鲤鱼王",
       "french": "Magicarpe"
     },
     "type": [
@@ -3915,9 +3915,9 @@
     "id": 130,
     "name": {
       "english": "Gyarados",
-      "japanese": "\u30ae\u30e3\u30e9\u30c9\u30b9",
-      "chinese": "\u66b4\u9ca4\u9f99",
-      "french": "L\u00e9viator"
+      "japanese": "ギャラドス",
+      "chinese": "暴鲤龙",
+      "french": "Léviator"
     },
     "type": [
       "Water",
@@ -3944,8 +3944,8 @@
     "id": 131,
     "name": {
       "english": "Lapras",
-      "japanese": "\u30e9\u30d7\u30e9\u30b9",
-      "chinese": "\u62c9\u666e\u62c9\u65af",
+      "japanese": "ラプラス",
+      "chinese": "拉普拉斯",
       "french": "Lokhlass"
     },
     "type": [
@@ -3968,9 +3968,9 @@
     "id": 132,
     "name": {
       "english": "Ditto",
-      "japanese": "\u30e1\u30bf\u30e2\u30f3",
-      "chinese": "\u767e\u53d8\u602a",
-      "french": "M\u00e9tamorph"
+      "japanese": "メタモン",
+      "chinese": "百变怪",
+      "french": "Métamorph"
     },
     "type": [
       "Normal"
@@ -3991,9 +3991,9 @@
     "id": 133,
     "name": {
       "english": "Eevee",
-      "japanese": "\u30a4\u30fc\u30d6\u30a4",
-      "chinese": "\u4f0a\u5e03",
-      "french": "\u00c9voli"
+      "japanese": "イーブイ",
+      "chinese": "伊布",
+      "french": "Évoli"
     },
     "type": [
       "Normal"
@@ -4049,8 +4049,8 @@
     "id": 134,
     "name": {
       "english": "Vaporeon",
-      "japanese": "\u30b7\u30e3\u30ef\u30fc\u30ba",
-      "chinese": "\u6c34\u4f0a\u5e03",
+      "japanese": "シャワーズ",
+      "chinese": "水伊布",
       "french": "Aquali"
     },
     "type": [
@@ -4077,8 +4077,8 @@
     "id": 135,
     "name": {
       "english": "Jolteon",
-      "japanese": "\u30b5\u30f3\u30c0\u30fc\u30b9",
-      "chinese": "\u96f7\u4f0a\u5e03",
+      "japanese": "サンダース",
+      "chinese": "雷伊布",
       "french": "Voltali"
     },
     "type": [
@@ -4105,8 +4105,8 @@
     "id": 136,
     "name": {
       "english": "Flareon",
-      "japanese": "\u30d6\u30fc\u30b9\u30bf\u30fc",
-      "chinese": "\u706b\u4f0a\u5e03",
+      "japanese": "ブースター",
+      "chinese": "火伊布",
       "french": "Pyroli"
     },
     "type": [
@@ -4133,8 +4133,8 @@
     "id": 137,
     "name": {
       "english": "Porygon",
-      "japanese": "\u30dd\u30ea\u30b4\u30f3",
-      "chinese": "\u591a\u8fb9\u517d",
+      "japanese": "ポリゴン",
+      "chinese": "多边兽",
       "french": "Porygon"
     },
     "type": [
@@ -4163,8 +4163,8 @@
     "id": 138,
     "name": {
       "english": "Omanyte",
-      "japanese": "\u30aa\u30e0\u30ca\u30a4\u30c8",
-      "chinese": "\u83ca\u77f3\u517d",
+      "japanese": "オムナイト",
+      "chinese": "菊石兽",
       "french": "Amonita"
     },
     "type": [
@@ -4194,8 +4194,8 @@
     "id": 139,
     "name": {
       "english": "Omastar",
-      "japanese": "\u30aa\u30e0\u30b9\u30bf\u30fc",
-      "chinese": "\u591a\u523a\u83ca\u77f3\u517d",
+      "japanese": "オムスター",
+      "chinese": "多刺菊石兽",
       "french": "Amonistar"
     },
     "type": [
@@ -4223,8 +4223,8 @@
     "id": 140,
     "name": {
       "english": "Kabuto",
-      "japanese": "\u30ab\u30d6\u30c8",
-      "chinese": "\u5316\u77f3\u76d4",
+      "japanese": "カブト",
+      "chinese": "化石盔",
       "french": "Kabuto"
     },
     "type": [
@@ -4254,8 +4254,8 @@
     "id": 141,
     "name": {
       "english": "Kabutops",
-      "japanese": "\u30ab\u30d6\u30c8\u30d7\u30b9",
-      "chinese": "\u9570\u5200\u76d4",
+      "japanese": "カブトプス",
+      "chinese": "镰刀盔",
       "french": "Kabutops"
     },
     "type": [
@@ -4283,9 +4283,9 @@
     "id": 142,
     "name": {
       "english": "Aerodactyl",
-      "japanese": "\u30d7\u30c6\u30e9",
-      "chinese": "\u5316\u77f3\u7ffc\u9f99",
-      "french": "Pt\u00e9ra"
+      "japanese": "プテラ",
+      "chinese": "化石翼龙",
+      "french": "Ptéra"
     },
     "type": [
       "Rock",
@@ -4307,8 +4307,8 @@
     "id": 143,
     "name": {
       "english": "Snorlax",
-      "japanese": "\u30ab\u30d3\u30b4\u30f3",
-      "chinese": "\u5361\u6bd4\u517d",
+      "japanese": "カビゴン",
+      "chinese": "卡比兽",
       "french": "Ronflex"
     },
     "type": [
@@ -4335,8 +4335,8 @@
     "id": 144,
     "name": {
       "english": "Articuno",
-      "japanese": "\u30d5\u30ea\u30fc\u30b6\u30fc",
-      "chinese": "\u6025\u51bb\u9e1f",
+      "japanese": "フリーザー",
+      "chinese": "急冻鸟",
       "french": "Artikodin"
     },
     "type": [
@@ -4359,9 +4359,9 @@
     "id": 145,
     "name": {
       "english": "Zapdos",
-      "japanese": "\u30b5\u30f3\u30c0\u30fc",
-      "chinese": "\u95ea\u7535\u9e1f",
-      "french": "\u00c9lecthor"
+      "japanese": "サンダー",
+      "chinese": "闪电鸟",
+      "french": "Électhor"
     },
     "type": [
       "Electric",
@@ -4383,8 +4383,8 @@
     "id": 146,
     "name": {
       "english": "Moltres",
-      "japanese": "\u30d5\u30a1\u30a4\u30e4\u30fc",
-      "chinese": "\u706b\u7130\u9e1f",
+      "japanese": "ファイヤー",
+      "chinese": "火焰鸟",
       "french": "Sulfura"
     },
     "type": [
@@ -4407,8 +4407,8 @@
     "id": 147,
     "name": {
       "english": "Dratini",
-      "japanese": "\u30df\u30cb\u30ea\u30e5\u30a6",
-      "chinese": "\u8ff7\u4f60\u9f99",
+      "japanese": "ミニリュウ",
+      "chinese": "迷你龙",
       "french": "Minidraco"
     },
     "type": [
@@ -4437,8 +4437,8 @@
     "id": 148,
     "name": {
       "english": "Dragonair",
-      "japanese": "\u30cf\u30af\u30ea\u30e5\u30fc",
-      "chinese": "\u54c8\u514b\u9f99",
+      "japanese": "ハクリュー",
+      "chinese": "哈克龙",
       "french": "Draco"
     },
     "type": [
@@ -4471,8 +4471,8 @@
     "id": 149,
     "name": {
       "english": "Dragonite",
-      "japanese": "\u30ab\u30a4\u30ea\u30e5\u30fc",
-      "chinese": "\u5feb\u9f99",
+      "japanese": "カイリュー",
+      "chinese": "快龙",
       "french": "Dracolosse"
     },
     "type": [
@@ -4500,8 +4500,8 @@
     "id": 150,
     "name": {
       "english": "Mewtwo",
-      "japanese": "\u30df\u30e5\u30a6\u30c4\u30fc",
-      "chinese": "\u8d85\u68a6",
+      "japanese": "ミュウツー",
+      "chinese": "超梦",
       "french": "Mewtwo"
     },
     "type": [
@@ -4523,8 +4523,8 @@
     "id": 151,
     "name": {
       "english": "Mew",
-      "japanese": "\u30df\u30e5\u30a6",
-      "chinese": "\u68a6\u5e7b",
+      "japanese": "ミュウ",
+      "chinese": "梦幻",
       "french": "Mew"
     },
     "type": [
@@ -4546,8 +4546,8 @@
     "id": 152,
     "name": {
       "english": "Chikorita",
-      "japanese": "\u30c1\u30b3\u30ea\u30fc\u30bf",
-      "chinese": "\u83ca\u8349\u53f6",
+      "japanese": "チコリータ",
+      "chinese": "菊草叶",
       "french": "Germignon"
     },
     "type": [
@@ -4576,8 +4576,8 @@
     "id": 153,
     "name": {
       "english": "Bayleef",
-      "japanese": "\u30d9\u30a4\u30ea\u30fc\u30d5",
-      "chinese": "\u6708\u6842\u53f6",
+      "japanese": "ベイリーフ",
+      "chinese": "月桂叶",
       "french": "Macronium"
     },
     "type": [
@@ -4610,9 +4610,9 @@
     "id": 154,
     "name": {
       "english": "Meganium",
-      "japanese": "\u30e1\u30ac\u30cb\u30a6\u30e0",
-      "chinese": "\u5927\u7afa\u8475",
-      "french": "M\u00e9ganium"
+      "japanese": "メガニウム",
+      "chinese": "大竺葵",
+      "french": "Méganium"
     },
     "type": [
       "Grass"
@@ -4638,9 +4638,9 @@
     "id": 155,
     "name": {
       "english": "Cyndaquil",
-      "japanese": "\u30d2\u30ce\u30a2\u30e9\u30b7",
-      "chinese": "\u706b\u7403\u9f20",
-      "french": "H\u00e9ricendre"
+      "japanese": "ヒノアラシ",
+      "chinese": "火球鼠",
+      "french": "Héricendre"
     },
     "type": [
       "Fire"
@@ -4668,8 +4668,8 @@
     "id": 156,
     "name": {
       "english": "Quilava",
-      "japanese": "\u30de\u30b0\u30de\u30e9\u30b7",
-      "chinese": "\u706b\u5ca9\u9f20",
+      "japanese": "マグマラシ",
+      "chinese": "火岩鼠",
       "french": "Feurisson"
     },
     "type": [
@@ -4702,8 +4702,8 @@
     "id": 157,
     "name": {
       "english": "Typhlosion",
-      "japanese": "\u30d0\u30af\u30d5\u30fc\u30f3",
-      "chinese": "\u706b\u66b4\u517d",
+      "japanese": "バクフーン",
+      "chinese": "火暴兽",
       "french": "Typhlosion"
     },
     "type": [
@@ -4730,8 +4730,8 @@
     "id": 158,
     "name": {
       "english": "Totodile",
-      "japanese": "\u30ef\u30cb\u30ce\u30b3",
-      "chinese": "\u5c0f\u952f\u9cc4",
+      "japanese": "ワニノコ",
+      "chinese": "小锯鳄",
       "french": "Kaiminus"
     },
     "type": [
@@ -4760,8 +4760,8 @@
     "id": 159,
     "name": {
       "english": "Croconaw",
-      "japanese": "\u30a2\u30ea\u30b2\u30a4\u30c4",
-      "chinese": "\u84dd\u9cc4",
+      "japanese": "アリゲイツ",
+      "chinese": "蓝鳄",
       "french": "Crocrodil"
     },
     "type": [
@@ -4794,8 +4794,8 @@
     "id": 160,
     "name": {
       "english": "Feraligatr",
-      "japanese": "\u30aa\u30fc\u30c0\u30a4\u30eb",
-      "chinese": "\u5927\u529b\u9cc4",
+      "japanese": "オーダイル",
+      "chinese": "大力鳄",
       "french": "Aligatueur"
     },
     "type": [
@@ -4822,8 +4822,8 @@
     "id": 161,
     "name": {
       "english": "Sentret",
-      "japanese": "\u30aa\u30bf\u30c1",
-      "chinese": "\u5c3e\u7acb",
+      "japanese": "オタチ",
+      "chinese": "尾立",
       "french": "Fouinette"
     },
     "type": [
@@ -4852,8 +4852,8 @@
     "id": 162,
     "name": {
       "english": "Furret",
-      "japanese": "\u30aa\u30aa\u30bf\u30c1",
-      "chinese": "\u5927\u5c3e\u7acb",
+      "japanese": "オオタチ",
+      "chinese": "大尾立",
       "french": "Fouinar"
     },
     "type": [
@@ -4880,8 +4880,8 @@
     "id": 163,
     "name": {
       "english": "Hoothoot",
-      "japanese": "\u30db\u30fc\u30db\u30fc",
-      "chinese": "\u5495\u5495",
+      "japanese": "ホーホー",
+      "chinese": "咕咕",
       "french": "Hoothoot"
     },
     "type": [
@@ -4911,8 +4911,8 @@
     "id": 164,
     "name": {
       "english": "Noctowl",
-      "japanese": "\u30e8\u30eb\u30ce\u30ba\u30af",
-      "chinese": "\u732b\u5934\u591c\u9e70",
+      "japanese": "ヨルノズク",
+      "chinese": "猫头夜鹰",
       "french": "Noarfang"
     },
     "type": [
@@ -4940,8 +4940,8 @@
     "id": 165,
     "name": {
       "english": "Ledyba",
-      "japanese": "\u30ec\u30c7\u30a3\u30d0",
-      "chinese": "\u82ad\u74e2\u866b",
+      "japanese": "レディバ",
+      "chinese": "芭瓢虫",
       "french": "Coxy"
     },
     "type": [
@@ -4971,8 +4971,8 @@
     "id": 166,
     "name": {
       "english": "Ledian",
-      "japanese": "\u30ec\u30c7\u30a3\u30a2\u30f3",
-      "chinese": "\u5b89\u74e2\u866b",
+      "japanese": "レディアン",
+      "chinese": "安瓢虫",
       "french": "Coxyclaque"
     },
     "type": [
@@ -5000,8 +5000,8 @@
     "id": 167,
     "name": {
       "english": "Spinarak",
-      "japanese": "\u30a4\u30c8\u30de\u30eb",
-      "chinese": "\u5706\u4e1d\u86db",
+      "japanese": "イトマル",
+      "chinese": "圆丝蛛",
       "french": "Mimigal"
     },
     "type": [
@@ -5031,8 +5031,8 @@
     "id": 168,
     "name": {
       "english": "Ariados",
-      "japanese": "\u30a2\u30ea\u30a2\u30c9\u30b9",
-      "chinese": "\u963f\u5229\u591a\u65af",
+      "japanese": "アリアドス",
+      "chinese": "阿利多斯",
       "french": "Migalos"
     },
     "type": [
@@ -5060,8 +5060,8 @@
     "id": 169,
     "name": {
       "english": "Crobat",
-      "japanese": "\u30af\u30ed\u30d0\u30c3\u30c8",
-      "chinese": "\u53c9\u5b57\u8760",
+      "japanese": "クロバット",
+      "chinese": "叉字蝠",
       "french": "Nostenfer"
     },
     "type": [
@@ -5089,8 +5089,8 @@
     "id": 170,
     "name": {
       "english": "Chinchou",
-      "japanese": "\u30c1\u30e7\u30f3\u30c1\u30fc",
-      "chinese": "\u706f\u7b3c\u9c7c",
+      "japanese": "チョンチー",
+      "chinese": "灯笼鱼",
       "french": "Loupio"
     },
     "type": [
@@ -5120,8 +5120,8 @@
     "id": 171,
     "name": {
       "english": "Lanturn",
-      "japanese": "\u30e9\u30f3\u30bf\u30fc\u30f3",
-      "chinese": "\u7535\u706f\u602a",
+      "japanese": "ランターン",
+      "chinese": "电灯怪",
       "french": "Lanturn"
     },
     "type": [
@@ -5149,8 +5149,8 @@
     "id": 172,
     "name": {
       "english": "Pichu",
-      "japanese": "\u30d4\u30c1\u30e5\u30fc",
-      "chinese": "\u76ae\u4e18",
+      "japanese": "ピチュー",
+      "chinese": "皮丘",
       "french": "Pichu"
     },
     "type": [
@@ -5179,9 +5179,9 @@
     "id": 173,
     "name": {
       "english": "Cleffa",
-      "japanese": "\u30d4\u30a3",
-      "chinese": "\u76ae\u5b9d\u5b9d",
-      "french": "M\u00e9lo"
+      "japanese": "ピィ",
+      "chinese": "皮宝宝",
+      "french": "Mélo"
     },
     "type": [
       "Fairy"
@@ -5209,8 +5209,8 @@
     "id": 174,
     "name": {
       "english": "Igglybuff",
-      "japanese": "\u30d7\u30d7\u30ea\u30f3",
-      "chinese": "\u5b9d\u5b9d\u4e01",
+      "japanese": "ププリン",
+      "chinese": "宝宝丁",
       "french": "Toudoudou"
     },
     "type": [
@@ -5240,8 +5240,8 @@
     "id": 175,
     "name": {
       "english": "Togepi",
-      "japanese": "\u30c8\u30b2\u30d4\u30fc",
-      "chinese": "\u6ce2\u514b\u6bd4",
+      "japanese": "トゲピー",
+      "chinese": "波克比",
       "french": "Togepi"
     },
     "type": [
@@ -5270,8 +5270,8 @@
     "id": 176,
     "name": {
       "english": "Togetic",
-      "japanese": "\u30c8\u30b2\u30c1\u30c3\u30af",
-      "chinese": "\u6ce2\u514b\u57fa\u53e4",
+      "japanese": "トゲチック",
+      "chinese": "波克基古",
       "french": "Togetic"
     },
     "type": [
@@ -5305,8 +5305,8 @@
     "id": 177,
     "name": {
       "english": "Natu",
-      "japanese": "\u30cd\u30a4\u30c6\u30a3",
-      "chinese": "\u5929\u7136\u96c0",
+      "japanese": "ネイティ",
+      "chinese": "天然雀",
       "french": "Natu"
     },
     "type": [
@@ -5336,8 +5336,8 @@
     "id": 178,
     "name": {
       "english": "Xatu",
-      "japanese": "\u30cd\u30a4\u30c6\u30a3\u30aa",
-      "chinese": "\u5929\u7136\u9e1f",
+      "japanese": "ネイティオ",
+      "chinese": "天然鸟",
       "french": "Xatu"
     },
     "type": [
@@ -5365,8 +5365,8 @@
     "id": 179,
     "name": {
       "english": "Mareep",
-      "japanese": "\u30e1\u30ea\u30fc\u30d7",
-      "chinese": "\u54a9\u5229\u7f8a",
+      "japanese": "メリープ",
+      "chinese": "咩利羊",
       "french": "Wattouat"
     },
     "type": [
@@ -5395,8 +5395,8 @@
     "id": 180,
     "name": {
       "english": "Flaaffy",
-      "japanese": "\u30e2\u30b3\u30b3",
-      "chinese": "\u8338\u8338\u7f8a",
+      "japanese": "モココ",
+      "chinese": "茸茸羊",
       "french": "Lainergie"
     },
     "type": [
@@ -5429,8 +5429,8 @@
     "id": 181,
     "name": {
       "english": "Ampharos",
-      "japanese": "\u30c7\u30f3\u30ea\u30e5\u30a6",
-      "chinese": "\u7535\u9f99",
+      "japanese": "デンリュウ",
+      "chinese": "电龙",
       "french": "Pharamp"
     },
     "type": [
@@ -5457,8 +5457,8 @@
     "id": 182,
     "name": {
       "english": "Bellossom",
-      "japanese": "\u30ad\u30ec\u30a4\u30cf\u30ca",
-      "chinese": "\u7f8e\u4e3d\u82b1",
+      "japanese": "キレイハナ",
+      "chinese": "美丽花",
       "french": "Joliflor"
     },
     "type": [
@@ -5485,8 +5485,8 @@
     "id": 183,
     "name": {
       "english": "Marill",
-      "japanese": "\u30de\u30ea\u30eb",
-      "chinese": "\u739b\u529b\u9732",
+      "japanese": "マリル",
+      "chinese": "玛力露",
       "french": "Marill"
     },
     "type": [
@@ -5520,8 +5520,8 @@
     "id": 184,
     "name": {
       "english": "Azumarill",
-      "japanese": "\u30de\u30ea\u30eb\u30ea",
-      "chinese": "\u739b\u529b\u9732\u4e3d",
+      "japanese": "マリルリ",
+      "chinese": "玛力露丽",
       "french": "Azumarill"
     },
     "type": [
@@ -5549,8 +5549,8 @@
     "id": 185,
     "name": {
       "english": "Sudowoodo",
-      "japanese": "\u30a6\u30bd\u30c3\u30ad\u30fc",
-      "chinese": "\u6811\u624d\u602a\u200e",
+      "japanese": "ウソッキー",
+      "chinese": "树才怪‎",
       "french": "Simularbre"
     },
     "type": [
@@ -5577,8 +5577,8 @@
     "id": 186,
     "name": {
       "english": "Politoed",
-      "japanese": "\u30cb\u30e7\u30ed\u30c8\u30ce",
-      "chinese": "\u868a\u9999\u86d9\u7687",
+      "japanese": "ニョロトノ",
+      "chinese": "蚊香蛙皇",
       "french": "Tarpaud"
     },
     "type": [
@@ -5605,8 +5605,8 @@
     "id": 187,
     "name": {
       "english": "Hoppip",
-      "japanese": "\u30cf\u30cd\u30c3\u30b3",
-      "chinese": "\u6bfd\u5b50\u8349",
+      "japanese": "ハネッコ",
+      "chinese": "毽子草",
       "french": "Granivol"
     },
     "type": [
@@ -5636,8 +5636,8 @@
     "id": 188,
     "name": {
       "english": "Skiploom",
-      "japanese": "\u30dd\u30dd\u30c3\u30b3",
-      "chinese": "\u6bfd\u5b50\u82b1",
+      "japanese": "ポポッコ",
+      "chinese": "毽子花",
       "french": "Floravol"
     },
     "type": [
@@ -5671,8 +5671,8 @@
     "id": 189,
     "name": {
       "english": "Jumpluff",
-      "japanese": "\u30ef\u30bf\u30c3\u30b3",
-      "chinese": "\u6bfd\u5b50\u68c9",
+      "japanese": "ワタッコ",
+      "chinese": "毽子棉",
       "french": "Cotovol"
     },
     "type": [
@@ -5700,8 +5700,8 @@
     "id": 190,
     "name": {
       "english": "Aipom",
-      "japanese": "\u30a8\u30a4\u30d1\u30e0",
-      "chinese": "\u957f\u5c3e\u602a\u624b",
+      "japanese": "エイパム",
+      "chinese": "长尾怪手",
       "french": "Capumain"
     },
     "type": [
@@ -5730,8 +5730,8 @@
     "id": 191,
     "name": {
       "english": "Sunkern",
-      "japanese": "\u30d2\u30de\u30ca\u30c3\u30c4",
-      "chinese": "\u5411\u65e5\u79cd\u5b50",
+      "japanese": "ヒマナッツ",
+      "chinese": "向日种子",
       "french": "Tournegrin"
     },
     "type": [
@@ -5760,9 +5760,9 @@
     "id": 192,
     "name": {
       "english": "Sunflora",
-      "japanese": "\u30ad\u30de\u30ef\u30ea",
-      "chinese": "\u5411\u65e5\u82b1\u602a",
-      "french": "H\u00e9liatronc"
+      "japanese": "キマワリ",
+      "chinese": "向日花怪",
+      "french": "Héliatronc"
     },
     "type": [
       "Grass"
@@ -5788,8 +5788,8 @@
     "id": 193,
     "name": {
       "english": "Yanma",
-      "japanese": "\u30e4\u30f3\u30e4\u30f3\u30de",
-      "chinese": "\u873b\u873b\u8713",
+      "japanese": "ヤンヤンマ",
+      "chinese": "蜻蜻蜓",
       "french": "Yanma"
     },
     "type": [
@@ -5819,8 +5819,8 @@
     "id": 194,
     "name": {
       "english": "Wooper",
-      "japanese": "\u30a6\u30d1\u30fc",
-      "chinese": "\u4e4c\u6ce2",
+      "japanese": "ウパー",
+      "chinese": "乌波",
       "french": "Axoloto"
     },
     "type": [
@@ -5850,8 +5850,8 @@
     "id": 195,
     "name": {
       "english": "Quagsire",
-      "japanese": "\u30cc\u30aa\u30fc",
-      "chinese": "\u6cbc\u738b",
+      "japanese": "ヌオー",
+      "chinese": "沼王",
       "french": "Maraiste"
     },
     "type": [
@@ -5879,8 +5879,8 @@
     "id": 196,
     "name": {
       "english": "Espeon",
-      "japanese": "\u30a8\u30fc\u30d5\u30a3",
-      "chinese": "\u592a\u9633\u4f0a\u5e03",
+      "japanese": "エーフィ",
+      "chinese": "太阳伊布",
       "french": "Mentali"
     },
     "type": [
@@ -5907,8 +5907,8 @@
     "id": 197,
     "name": {
       "english": "Umbreon",
-      "japanese": "\u30d6\u30e9\u30c3\u30ad\u30fc",
-      "chinese": "\u6708\u4eae\u4f0a\u5e03",
+      "japanese": "ブラッキー",
+      "chinese": "月亮伊布",
       "french": "Noctali"
     },
     "type": [
@@ -5935,9 +5935,9 @@
     "id": 198,
     "name": {
       "english": "Murkrow",
-      "japanese": "\u30e4\u30df\u30ab\u30e9\u30b9",
-      "chinese": "\u9ed1\u6697\u9e26",
-      "french": "Corn\u00e8bre"
+      "japanese": "ヤミカラス",
+      "chinese": "黑暗鸦",
+      "french": "Cornèbre"
     },
     "type": [
       "Dark",
@@ -5966,8 +5966,8 @@
     "id": 199,
     "name": {
       "english": "Slowking",
-      "japanese": "\u30e4\u30c9\u30ad\u30f3\u30b0",
-      "chinese": "\u5446\u5446\u738b",
+      "japanese": "ヤドキング",
+      "chinese": "呆呆王",
       "french": "Roigada"
     },
     "type": [
@@ -5995,9 +5995,9 @@
     "id": 200,
     "name": {
       "english": "Misdreavus",
-      "japanese": "\u30e0\u30a6\u30de",
-      "chinese": "\u68a6\u5996",
-      "french": "Feufor\u00eave"
+      "japanese": "ムウマ",
+      "chinese": "梦妖",
+      "french": "Feuforêve"
     },
     "type": [
       "Ghost"
@@ -6025,8 +6025,8 @@
     "id": 201,
     "name": {
       "english": "Unown",
-      "japanese": "\u30a2\u30f3\u30ce\u30fc\u30f3",
-      "chinese": "\u672a\u77e5\u56fe\u817e",
+      "japanese": "アンノーン",
+      "chinese": "未知图腾",
       "french": "Zarbi"
     },
     "type": [
@@ -6048,9 +6048,9 @@
     "id": 202,
     "name": {
       "english": "Wobbuffet",
-      "japanese": "\u30bd\u30fc\u30ca\u30f3\u30b9",
-      "chinese": "\u679c\u7136\u7fc1",
-      "french": "Qulbutok\u00e9"
+      "japanese": "ソーナンス",
+      "chinese": "果然翁",
+      "french": "Qulbutoké"
     },
     "type": [
       "Psychic"
@@ -6076,8 +6076,8 @@
     "id": 203,
     "name": {
       "english": "Girafarig",
-      "japanese": "\u30ad\u30ea\u30f3\u30ea\u30ad",
-      "chinese": "\u9e92\u9e9f\u5947",
+      "japanese": "キリンリキ",
+      "chinese": "麒麟奇",
       "french": "Girafarig"
     },
     "type": [
@@ -6100,8 +6100,8 @@
     "id": 204,
     "name": {
       "english": "Pineco",
-      "japanese": "\u30af\u30cc\u30ae\u30c0\u30de",
-      "chinese": "\u699b\u679c\u7403",
+      "japanese": "クヌギダマ",
+      "chinese": "榛果球",
       "french": "Pomdepik"
     },
     "type": [
@@ -6130,8 +6130,8 @@
     "id": 205,
     "name": {
       "english": "Forretress",
-      "japanese": "\u30d5\u30a9\u30ec\u30c8\u30b9",
-      "chinese": "\u4f5b\u70c8\u6258\u65af",
+      "japanese": "フォレトス",
+      "chinese": "佛烈托斯",
       "french": "Foretress"
     },
     "type": [
@@ -6159,8 +6159,8 @@
     "id": 206,
     "name": {
       "english": "Dunsparce",
-      "japanese": "\u30ce\u30b3\u30c3\u30c1",
-      "chinese": "\u571f\u9f99\u5f1f\u5f1f",
+      "japanese": "ノコッチ",
+      "chinese": "土龙弟弟",
       "french": "Insolourdo"
     },
     "type": [
@@ -6182,8 +6182,8 @@
     "id": 207,
     "name": {
       "english": "Gligar",
-      "japanese": "\u30b0\u30e9\u30a4\u30ac\u30fc",
-      "chinese": "\u5929\u874e",
+      "japanese": "グライガー",
+      "chinese": "天蝎",
       "french": "Scorplane"
     },
     "type": [
@@ -6213,8 +6213,8 @@
     "id": 208,
     "name": {
       "english": "Steelix",
-      "japanese": "\u30cf\u30ac\u30cd\u30fc\u30eb",
-      "chinese": "\u5927\u94a2\u86c7",
+      "japanese": "ハガネール",
+      "chinese": "大钢蛇",
       "french": "Steelix"
     },
     "type": [
@@ -6242,8 +6242,8 @@
     "id": 209,
     "name": {
       "english": "Snubbull",
-      "japanese": "\u30d6\u30eb\u30fc",
-      "chinese": "\u5e03\u9c81",
+      "japanese": "ブルー",
+      "chinese": "布鲁",
       "french": "Snubbull"
     },
     "type": [
@@ -6272,8 +6272,8 @@
     "id": 210,
     "name": {
       "english": "Granbull",
-      "japanese": "\u30b0\u30e9\u30f3\u30d6\u30eb",
-      "chinese": "\u5e03\u9c81\u7687",
+      "japanese": "グランブル",
+      "chinese": "布鲁皇",
       "french": "Granbull"
     },
     "type": [
@@ -6300,8 +6300,8 @@
     "id": 211,
     "name": {
       "english": "Qwilfish",
-      "japanese": "\u30cf\u30ea\u30fc\u30bb\u30f3",
-      "chinese": "\u5343\u9488\u9c7c",
+      "japanese": "ハリーセン",
+      "chinese": "千针鱼",
       "french": "Qwilfish"
     },
     "type": [
@@ -6324,8 +6324,8 @@
     "id": 212,
     "name": {
       "english": "Scizor",
-      "japanese": "\u30cf\u30c3\u30b5\u30e0",
-      "chinese": "\u5de8\u94b3\u87b3\u8782",
+      "japanese": "ハッサム",
+      "chinese": "巨钳螳螂",
       "french": "Cizayox"
     },
     "type": [
@@ -6353,8 +6353,8 @@
     "id": 213,
     "name": {
       "english": "Shuckle",
-      "japanese": "\u30c4\u30dc\u30c4\u30dc",
-      "chinese": "\u58f6\u58f6",
+      "japanese": "ツボツボ",
+      "chinese": "壶壶",
       "french": "Caratroc"
     },
     "type": [
@@ -6377,8 +6377,8 @@
     "id": 214,
     "name": {
       "english": "Heracross",
-      "japanese": "\u30d8\u30e9\u30af\u30ed\u30b9",
-      "chinese": "\u8d6b\u62c9\u514b\u7f57\u65af",
+      "japanese": "ヘラクロス",
+      "chinese": "赫拉克罗斯",
       "french": "Scarhino"
     },
     "type": [
@@ -6401,8 +6401,8 @@
     "id": 215,
     "name": {
       "english": "Sneasel",
-      "japanese": "\u30cb\u30e5\u30fc\u30e9",
-      "chinese": "\u72c3\u62c9",
+      "japanese": "ニューラ",
+      "chinese": "狃拉",
       "french": "Farfuret"
     },
     "type": [
@@ -6432,8 +6432,8 @@
     "id": 216,
     "name": {
       "english": "Teddiursa",
-      "japanese": "\u30d2\u30e1\u30b0\u30de",
-      "chinese": "\u718a\u5b9d\u5b9d",
+      "japanese": "ヒメグマ",
+      "chinese": "熊宝宝",
       "french": "Teddiursa"
     },
     "type": [
@@ -6462,8 +6462,8 @@
     "id": 217,
     "name": {
       "english": "Ursaring",
-      "japanese": "\u30ea\u30f3\u30b0\u30de",
-      "chinese": "\u5708\u5708\u718a",
+      "japanese": "リングマ",
+      "chinese": "圈圈熊",
       "french": "Ursaring"
     },
     "type": [
@@ -6490,8 +6490,8 @@
     "id": 218,
     "name": {
       "english": "Slugma",
-      "japanese": "\u30de\u30b0\u30de\u30c3\u30b0",
-      "chinese": "\u7194\u5ca9\u866b",
+      "japanese": "マグマッグ",
+      "chinese": "熔岩虫",
       "french": "Limagma"
     },
     "type": [
@@ -6520,8 +6520,8 @@
     "id": 219,
     "name": {
       "english": "Magcargo",
-      "japanese": "\u30de\u30b0\u30ab\u30eb\u30b4",
-      "chinese": "\u7194\u5ca9\u8717\u725b",
+      "japanese": "マグカルゴ",
+      "chinese": "熔岩蜗牛",
       "french": "Volcaropod"
     },
     "type": [
@@ -6549,8 +6549,8 @@
     "id": 220,
     "name": {
       "english": "Swinub",
-      "japanese": "\u30a6\u30ea\u30e0\u30fc",
-      "chinese": "\u5c0f\u5c71\u732a",
+      "japanese": "ウリムー",
+      "chinese": "小山猪",
       "french": "Marcacrin"
     },
     "type": [
@@ -6580,8 +6580,8 @@
     "id": 221,
     "name": {
       "english": "Piloswine",
-      "japanese": "\u30a4\u30ce\u30e0\u30fc",
-      "chinese": "\u957f\u6bdb\u732a",
+      "japanese": "イノムー",
+      "chinese": "长毛猪",
       "french": "Cochignon"
     },
     "type": [
@@ -6615,8 +6615,8 @@
     "id": 222,
     "name": {
       "english": "Corsola",
-      "japanese": "\u30b5\u30cb\u30fc\u30b4",
-      "chinese": "\u592a\u9633\u73ca\u745a",
+      "japanese": "サニーゴ",
+      "chinese": "太阳珊瑚",
       "french": "Corayon"
     },
     "type": [
@@ -6639,9 +6639,9 @@
     "id": 223,
     "name": {
       "english": "Remoraid",
-      "japanese": "\u30c6\u30c3\u30dd\u30a6\u30aa",
-      "chinese": "\u94c1\u70ae\u9c7c",
-      "french": "R\u00e9moraid"
+      "japanese": "テッポウオ",
+      "chinese": "铁炮鱼",
+      "french": "Rémoraid"
     },
     "type": [
       "Water"
@@ -6669,8 +6669,8 @@
     "id": 224,
     "name": {
       "english": "Octillery",
-      "japanese": "\u30aa\u30af\u30bf\u30f3",
-      "chinese": "\u7ae0\u9c7c\u6876",
+      "japanese": "オクタン",
+      "chinese": "章鱼桶",
       "french": "Octillery"
     },
     "type": [
@@ -6697,8 +6697,8 @@
     "id": 225,
     "name": {
       "english": "Delibird",
-      "japanese": "\u30c7\u30ea\u30d0\u30fc\u30c9",
-      "chinese": "\u4fe1\u4f7f\u9e1f",
+      "japanese": "デリバード",
+      "chinese": "信使鸟",
       "french": "Cadoizo"
     },
     "type": [
@@ -6721,9 +6721,9 @@
     "id": 226,
     "name": {
       "english": "Mantine",
-      "japanese": "\u30de\u30f3\u30bf\u30a4\u30f3",
-      "chinese": "\u5de8\u7fc5\u98de\u9c7c",
-      "french": "D\u00e9manta"
+      "japanese": "マンタイン",
+      "chinese": "巨翅飞鱼",
+      "french": "Démanta"
     },
     "type": [
       "Water",
@@ -6750,8 +6750,8 @@
     "id": 227,
     "name": {
       "english": "Skarmory",
-      "japanese": "\u30a8\u30a2\u30fc\u30e0\u30c9",
-      "chinese": "\u76d4\u7532\u9e1f",
+      "japanese": "エアームド",
+      "chinese": "盔甲鸟",
       "french": "Airmure"
     },
     "type": [
@@ -6774,8 +6774,8 @@
     "id": 228,
     "name": {
       "english": "Houndour",
-      "japanese": "\u30c7\u30eb\u30d3\u30eb",
-      "chinese": "\u6234\u9c81\u6bd4",
+      "japanese": "デルビル",
+      "chinese": "戴鲁比",
       "french": "Malosse"
     },
     "type": [
@@ -6805,9 +6805,9 @@
     "id": 229,
     "name": {
       "english": "Houndoom",
-      "japanese": "\u30d8\u30eb\u30ac\u30fc",
-      "chinese": "\u9ed1\u9c81\u52a0",
-      "french": "D\u00e9molosse"
+      "japanese": "ヘルガー",
+      "chinese": "黑鲁加",
+      "french": "Démolosse"
     },
     "type": [
       "Dark",
@@ -6834,8 +6834,8 @@
     "id": 230,
     "name": {
       "english": "Kingdra",
-      "japanese": "\u30ad\u30f3\u30b0\u30c9\u30e9",
-      "chinese": "\u523a\u9f99\u738b",
+      "japanese": "キングドラ",
+      "chinese": "刺龙王",
       "french": "Hyporoi"
     },
     "type": [
@@ -6863,8 +6863,8 @@
     "id": 231,
     "name": {
       "english": "Phanpy",
-      "japanese": "\u30b4\u30de\u30be\u30a6",
-      "chinese": "\u5c0f\u5c0f\u8c61",
+      "japanese": "ゴマゾウ",
+      "chinese": "小小象",
       "french": "Phanpy"
     },
     "type": [
@@ -6893,8 +6893,8 @@
     "id": 232,
     "name": {
       "english": "Donphan",
-      "japanese": "\u30c9\u30f3\u30d5\u30a1\u30f3",
-      "chinese": "\u987f\u7532",
+      "japanese": "ドンファン",
+      "chinese": "顿甲",
       "french": "Donphan"
     },
     "type": [
@@ -6921,8 +6921,8 @@
     "id": 233,
     "name": {
       "english": "Porygon2",
-      "japanese": "\u30dd\u30ea\u30b4\u30f3\uff12",
-      "chinese": "\u591a\u8fb9\u517d\u2161",
+      "japanese": "ポリゴン２",
+      "chinese": "多边兽Ⅱ",
       "french": "Porygon2"
     },
     "type": [
@@ -6955,8 +6955,8 @@
     "id": 234,
     "name": {
       "english": "Stantler",
-      "japanese": "\u30aa\u30c9\u30b7\u30b7",
-      "chinese": "\u60ca\u89d2\u9e7f",
+      "japanese": "オドシシ",
+      "chinese": "惊角鹿",
       "french": "Cerfrousse"
     },
     "type": [
@@ -6978,8 +6978,8 @@
     "id": 235,
     "name": {
       "english": "Smeargle",
-      "japanese": "\u30c9\u30fc\u30d6\u30eb",
-      "chinese": "\u56fe\u56fe\u72ac",
+      "japanese": "ドーブル",
+      "chinese": "图图犬",
       "french": "Queulorior"
     },
     "type": [
@@ -7001,8 +7001,8 @@
     "id": 236,
     "name": {
       "english": "Tyrogue",
-      "japanese": "\u30d0\u30eb\u30ad\u30fc",
-      "chinese": "\u65e0\u754f\u5c0f\u5b50",
+      "japanese": "バルキー",
+      "chinese": "无畏小子",
       "french": "Debugant"
     },
     "type": [
@@ -7039,8 +7039,8 @@
     "id": 237,
     "name": {
       "english": "Hitmontop",
-      "japanese": "\u30ab\u30dd\u30a8\u30e9\u30fc",
-      "chinese": "\u6218\u821e\u90ce",
+      "japanese": "カポエラー",
+      "chinese": "战舞郎",
       "french": "Kapoera"
     },
     "type": [
@@ -7067,8 +7067,8 @@
     "id": 238,
     "name": {
       "english": "Smoochum",
-      "japanese": "\u30e0\u30c1\u30e5\u30fc\u30eb",
-      "chinese": "\u8ff7\u5507\u5a03",
+      "japanese": "ムチュール",
+      "chinese": "迷唇娃",
       "french": "Lippouti"
     },
     "type": [
@@ -7098,9 +7098,9 @@
     "id": 239,
     "name": {
       "english": "Elekid",
-      "japanese": "\u30a8\u30ec\u30ad\u30c3\u30c9",
-      "chinese": "\u7535\u51fb\u602a",
-      "french": "\u00c9lekid"
+      "japanese": "エレキッド",
+      "chinese": "电击怪",
+      "french": "Élekid"
     },
     "type": [
       "Electric"
@@ -7128,8 +7128,8 @@
     "id": 240,
     "name": {
       "english": "Magby",
-      "japanese": "\u30d6\u30d3\u30a3",
-      "chinese": "\u9e2d\u5634\u5b9d\u5b9d",
+      "japanese": "ブビィ",
+      "chinese": "鸭嘴宝宝",
       "french": "Magby"
     },
     "type": [
@@ -7158,9 +7158,9 @@
     "id": 241,
     "name": {
       "english": "Miltank",
-      "japanese": "\u30df\u30eb\u30bf\u30f3\u30af",
-      "chinese": "\u5927\u5976\u7f50",
-      "french": "\u00c9cr\u00e9meuh"
+      "japanese": "ミルタンク",
+      "chinese": "大奶罐",
+      "french": "Écrémeuh"
     },
     "type": [
       "Normal"
@@ -7181,8 +7181,8 @@
     "id": 242,
     "name": {
       "english": "Blissey",
-      "japanese": "\u30cf\u30d4\u30ca\u30b9",
-      "chinese": "\u5e78\u798f\u86cb",
+      "japanese": "ハピナス",
+      "chinese": "幸福蛋",
       "french": "Leuphorie"
     },
     "type": [
@@ -7209,8 +7209,8 @@
     "id": 243,
     "name": {
       "english": "Raikou",
-      "japanese": "\u30e9\u30a4\u30b3\u30a6",
-      "chinese": "\u96f7\u516c",
+      "japanese": "ライコウ",
+      "chinese": "雷公",
       "french": "Raikou"
     },
     "type": [
@@ -7232,8 +7232,8 @@
     "id": 244,
     "name": {
       "english": "Entei",
-      "japanese": "\u30a8\u30f3\u30c6\u30a4",
-      "chinese": "\u708e\u5e1d",
+      "japanese": "エンテイ",
+      "chinese": "炎帝",
       "french": "Entei"
     },
     "type": [
@@ -7255,8 +7255,8 @@
     "id": 245,
     "name": {
       "english": "Suicune",
-      "japanese": "\u30b9\u30a4\u30af\u30f3",
-      "chinese": "\u6c34\u541b",
+      "japanese": "スイクン",
+      "chinese": "水君",
       "french": "Suicune"
     },
     "type": [
@@ -7278,8 +7278,8 @@
     "id": 246,
     "name": {
       "english": "Larvitar",
-      "japanese": "\u30e8\u30fc\u30ae\u30e9\u30b9",
-      "chinese": "\u5e7c\u57fa\u62c9\u65af",
+      "japanese": "ヨーギラス",
+      "chinese": "幼基拉斯",
       "french": "Embrylex"
     },
     "type": [
@@ -7309,8 +7309,8 @@
     "id": 247,
     "name": {
       "english": "Pupitar",
-      "japanese": "\u30b5\u30ca\u30ae\u30e9\u30b9",
-      "chinese": "\u6c99\u57fa\u62c9\u65af",
+      "japanese": "サナギラス",
+      "chinese": "沙基拉斯",
       "french": "Ymphect"
     },
     "type": [
@@ -7344,8 +7344,8 @@
     "id": 248,
     "name": {
       "english": "Tyranitar",
-      "japanese": "\u30d0\u30f3\u30ae\u30e9\u30b9",
-      "chinese": "\u73ed\u57fa\u62c9\u65af",
+      "japanese": "バンギラス",
+      "chinese": "班基拉斯",
       "french": "Tyranocif"
     },
     "type": [
@@ -7373,8 +7373,8 @@
     "id": 249,
     "name": {
       "english": "Lugia",
-      "japanese": "\u30eb\u30ae\u30a2",
-      "chinese": "\u6d1b\u5947\u4e9a",
+      "japanese": "ルギア",
+      "chinese": "洛奇亚",
       "french": "Lugia"
     },
     "type": [
@@ -7397,8 +7397,8 @@
     "id": 250,
     "name": {
       "english": "Ho-Oh",
-      "japanese": "\u30db\u30a6\u30aa\u30a6",
-      "chinese": "\u51e4\u738b",
+      "japanese": "ホウオウ",
+      "chinese": "凤王",
       "french": "Ho-Oh"
     },
     "type": [
@@ -7421,8 +7421,8 @@
     "id": 251,
     "name": {
       "english": "Celebi",
-      "japanese": "\u30bb\u30ec\u30d3\u30a3",
-      "chinese": "\u65f6\u62c9\u6bd4",
+      "japanese": "セレビィ",
+      "chinese": "时拉比",
       "french": "Celebi"
     },
     "type": [
@@ -7445,8 +7445,8 @@
     "id": 252,
     "name": {
       "english": "Treecko",
-      "japanese": "\u30ad\u30e2\u30ea",
-      "chinese": "\u6728\u5b88\u5bab",
+      "japanese": "キモリ",
+      "chinese": "木守宫",
       "french": "Arcko"
     },
     "type": [
@@ -7475,8 +7475,8 @@
     "id": 253,
     "name": {
       "english": "Grovyle",
-      "japanese": "\u30b8\u30e5\u30d7\u30c8\u30eb",
-      "chinese": "\u68ee\u6797\u8725\u8734",
+      "japanese": "ジュプトル",
+      "chinese": "森林蜥蜴",
       "french": "Massko"
     },
     "type": [
@@ -7509,8 +7509,8 @@
     "id": 254,
     "name": {
       "english": "Sceptile",
-      "japanese": "\u30b8\u30e5\u30ab\u30a4\u30f3",
-      "chinese": "\u8725\u8734\u738b",
+      "japanese": "ジュカイン",
+      "chinese": "蜥蜴王",
       "french": "Jungko"
     },
     "type": [
@@ -7537,8 +7537,8 @@
     "id": 255,
     "name": {
       "english": "Torchic",
-      "japanese": "\u30a2\u30c1\u30e3\u30e2",
-      "chinese": "\u706b\u7a1a\u9e21",
+      "japanese": "アチャモ",
+      "chinese": "火稚鸡",
       "french": "Poussifeu"
     },
     "type": [
@@ -7567,8 +7567,8 @@
     "id": 256,
     "name": {
       "english": "Combusken",
-      "japanese": "\u30ef\u30ab\u30b7\u30e3\u30e2",
-      "chinese": "\u529b\u58ee\u9e21",
+      "japanese": "ワカシャモ",
+      "chinese": "力壮鸡",
       "french": "Galifeu"
     },
     "type": [
@@ -7602,9 +7602,9 @@
     "id": 257,
     "name": {
       "english": "Blaziken",
-      "japanese": "\u30d0\u30b7\u30e3\u30fc\u30e2",
-      "chinese": "\u706b\u7130\u9e21",
-      "french": "Bras\u00e9gali"
+      "japanese": "バシャーモ",
+      "chinese": "火焰鸡",
+      "french": "Braségali"
     },
     "type": [
       "Fire",
@@ -7631,8 +7631,8 @@
     "id": 258,
     "name": {
       "english": "Mudkip",
-      "japanese": "\u30df\u30ba\u30b4\u30ed\u30a6",
-      "chinese": "\u6c34\u8dc3\u9c7c",
+      "japanese": "ミズゴロウ",
+      "chinese": "水跃鱼",
       "french": "Gobou"
     },
     "type": [
@@ -7661,8 +7661,8 @@
     "id": 259,
     "name": {
       "english": "Marshtomp",
-      "japanese": "\u30cc\u30de\u30af\u30ed\u30fc",
-      "chinese": "\u6cbc\u8dc3\u9c7c",
+      "japanese": "ヌマクロー",
+      "chinese": "沼跃鱼",
       "french": "Flobio"
     },
     "type": [
@@ -7696,8 +7696,8 @@
     "id": 260,
     "name": {
       "english": "Swampert",
-      "japanese": "\u30e9\u30b0\u30e9\u30fc\u30b8",
-      "chinese": "\u5de8\u6cbc\u602a",
+      "japanese": "ラグラージ",
+      "chinese": "巨沼怪",
       "french": "Laggron"
     },
     "type": [
@@ -7725,9 +7725,9 @@
     "id": 261,
     "name": {
       "english": "Poochyena",
-      "japanese": "\u30dd\u30c1\u30a8\u30ca",
-      "chinese": "\u571f\u72fc\u72ac",
-      "french": "Medhy\u00e8na"
+      "japanese": "ポチエナ",
+      "chinese": "土狼犬",
+      "french": "Medhyèna"
     },
     "type": [
       "Dark"
@@ -7755,9 +7755,9 @@
     "id": 262,
     "name": {
       "english": "Mightyena",
-      "japanese": "\u30b0\u30e9\u30a8\u30ca",
-      "chinese": "\u5927\u72fc\u72ac",
-      "french": "Grahy\u00e8na"
+      "japanese": "グラエナ",
+      "chinese": "大狼犬",
+      "french": "Grahyèna"
     },
     "type": [
       "Dark"
@@ -7783,8 +7783,8 @@
     "id": 263,
     "name": {
       "english": "Zigzagoon",
-      "japanese": "\u30b8\u30b0\u30b6\u30b0\u30de",
-      "chinese": "\u86c7\u7eb9\u718a",
+      "japanese": "ジグザグマ",
+      "chinese": "蛇纹熊",
       "french": "Zigzaton"
     },
     "type": [
@@ -7813,9 +7813,9 @@
     "id": 264,
     "name": {
       "english": "Linoone",
-      "japanese": "\u30de\u30c3\u30b9\u30b0\u30de",
-      "chinese": "\u76f4\u51b2\u718a",
-      "french": "Lin\u00e9on"
+      "japanese": "マッスグマ",
+      "chinese": "直冲熊",
+      "french": "Linéon"
     },
     "type": [
       "Normal"
@@ -7847,8 +7847,8 @@
     "id": 265,
     "name": {
       "english": "Wurmple",
-      "japanese": "\u30b1\u30e0\u30c3\u30bd",
-      "chinese": "\u523a\u5c3e\u866b",
+      "japanese": "ケムッソ",
+      "chinese": "刺尾虫",
       "french": "Chenipotte"
     },
     "type": [
@@ -7881,8 +7881,8 @@
     "id": 266,
     "name": {
       "english": "Silcoon",
-      "japanese": "\u30ab\u30e9\u30b5\u30ea\u30b9",
-      "chinese": "\u7532\u58f3\u8327",
+      "japanese": "カラサリス",
+      "chinese": "甲壳茧",
       "french": "Armulys"
     },
     "type": [
@@ -7915,8 +7915,8 @@
     "id": 267,
     "name": {
       "english": "Beautifly",
-      "japanese": "\u30a2\u30b2\u30cf\u30f3\u30c8",
-      "chinese": "\u72e9\u730e\u51e4\u8776",
+      "japanese": "アゲハント",
+      "chinese": "狩猎凤蝶",
       "french": "Charmillon"
     },
     "type": [
@@ -7944,8 +7944,8 @@
     "id": 268,
     "name": {
       "english": "Cascoon",
-      "japanese": "\u30de\u30e6\u30eb\u30c9",
-      "chinese": "\u76fe\u7532\u8327",
+      "japanese": "マユルド",
+      "chinese": "盾甲茧",
       "french": "Blindalys"
     },
     "type": [
@@ -7978,8 +7978,8 @@
     "id": 269,
     "name": {
       "english": "Dustox",
-      "japanese": "\u30c9\u30af\u30b1\u30a4\u30eb",
-      "chinese": "\u6bd2\u7c89\u86fe",
+      "japanese": "ドクケイル",
+      "chinese": "毒粉蛾",
       "french": "Papinox"
     },
     "type": [
@@ -8007,9 +8007,9 @@
     "id": 270,
     "name": {
       "english": "Lotad",
-      "japanese": "\u30cf\u30b9\u30dc\u30fc",
-      "chinese": "\u83b2\u53f6\u7ae5\u5b50",
-      "french": "N\u00e9nupiot"
+      "japanese": "ハスボー",
+      "chinese": "莲叶童子",
+      "french": "Nénupiot"
     },
     "type": [
       "Water",
@@ -8038,8 +8038,8 @@
     "id": 271,
     "name": {
       "english": "Lombre",
-      "japanese": "\u30cf\u30b9\u30d6\u30ec\u30ed",
-      "chinese": "\u83b2\u5e3d\u5c0f\u7ae5",
+      "japanese": "ハスブレロ",
+      "chinese": "莲帽小童",
       "french": "Lombre"
     },
     "type": [
@@ -8073,8 +8073,8 @@
     "id": 272,
     "name": {
       "english": "Ludicolo",
-      "japanese": "\u30eb\u30f3\u30d1\u30c3\u30d1",
-      "chinese": "\u4e50\u5929\u6cb3\u7ae5",
+      "japanese": "ルンパッパ",
+      "chinese": "乐天河童",
       "french": "Ludicolo"
     },
     "type": [
@@ -8102,8 +8102,8 @@
     "id": 273,
     "name": {
       "english": "Seedot",
-      "japanese": "\u30bf\u30cd\u30dc\u30fc",
-      "chinese": "\u6a61\u5b9e\u679c",
+      "japanese": "タネボー",
+      "chinese": "橡实果",
       "french": "Grainipiot"
     },
     "type": [
@@ -8132,8 +8132,8 @@
     "id": 274,
     "name": {
       "english": "Nuzleaf",
-      "japanese": "\u30b3\u30ce\u30cf\u30ca",
-      "chinese": "\u957f\u9f3b\u53f6",
+      "japanese": "コノハナ",
+      "chinese": "长鼻叶",
       "french": "Pifeuil"
     },
     "type": [
@@ -8167,8 +8167,8 @@
     "id": 275,
     "name": {
       "english": "Shiftry",
-      "japanese": "\u30c0\u30fc\u30c6\u30f3\u30b0",
-      "chinese": "\u72e1\u733e\u5929\u72d7",
+      "japanese": "ダーテング",
+      "chinese": "狡猾天狗",
       "french": "Tengalice"
     },
     "type": [
@@ -8196,8 +8196,8 @@
     "id": 276,
     "name": {
       "english": "Taillow",
-      "japanese": "\u30b9\u30d0\u30e1",
-      "chinese": "\u50b2\u9aa8\u71d5",
+      "japanese": "スバメ",
+      "chinese": "傲骨燕",
       "french": "Nirondelle"
     },
     "type": [
@@ -8227,9 +8227,9 @@
     "id": 277,
     "name": {
       "english": "Swellow",
-      "japanese": "\u30aa\u30aa\u30b9\u30d0\u30e1",
-      "chinese": "\u5927\u738b\u71d5",
-      "french": "H\u00e9l\u00e9delle"
+      "japanese": "オオスバメ",
+      "chinese": "大王燕",
+      "french": "Hélédelle"
     },
     "type": [
       "Normal",
@@ -8256,9 +8256,9 @@
     "id": 278,
     "name": {
       "english": "Wingull",
-      "japanese": "\u30ad\u30e3\u30e2\u30e1",
-      "chinese": "\u957f\u7fc5\u9e25",
-      "french": "Go\u00e9lise"
+      "japanese": "キャモメ",
+      "chinese": "长翅鸥",
+      "french": "Goélise"
     },
     "type": [
       "Water",
@@ -8287,8 +8287,8 @@
     "id": 279,
     "name": {
       "english": "Pelipper",
-      "japanese": "\u30da\u30ea\u30c3\u30d1\u30fc",
-      "chinese": "\u5927\u5634\u9e25",
+      "japanese": "ペリッパー",
+      "chinese": "大嘴鸥",
       "french": "Bekipan"
     },
     "type": [
@@ -8316,8 +8316,8 @@
     "id": 280,
     "name": {
       "english": "Ralts",
-      "japanese": "\u30e9\u30eb\u30c8\u30b9",
-      "chinese": "\u62c9\u9c81\u62c9\u4e1d",
+      "japanese": "ラルトス",
+      "chinese": "拉鲁拉丝",
       "french": "Tarsal"
     },
     "type": [
@@ -8347,8 +8347,8 @@
     "id": 281,
     "name": {
       "english": "Kirlia",
-      "japanese": "\u30ad\u30eb\u30ea\u30a2",
-      "chinese": "\u5947\u9c81\u8389\u5b89",
+      "japanese": "キルリア",
+      "chinese": "奇鲁莉安",
       "french": "Kirlia"
     },
     "type": [
@@ -8382,8 +8382,8 @@
     "id": 282,
     "name": {
       "english": "Gardevoir",
-      "japanese": "\u30b5\u30fc\u30ca\u30a4\u30c8",
-      "chinese": "\u6c99\u5948\u6735",
+      "japanese": "サーナイト",
+      "chinese": "沙奈朵",
       "french": "Gardevoir"
     },
     "type": [
@@ -8411,8 +8411,8 @@
     "id": 283,
     "name": {
       "english": "Surskit",
-      "japanese": "\u30a2\u30e1\u30bf\u30de",
-      "chinese": "\u6e9c\u6e9c\u7cd6\u7403",
+      "japanese": "アメタマ",
+      "chinese": "溜溜糖球",
       "french": "Arakdo"
     },
     "type": [
@@ -8442,8 +8442,8 @@
     "id": 284,
     "name": {
       "english": "Masquerain",
-      "japanese": "\u30a2\u30e1\u30e2\u30fc\u30b9",
-      "chinese": "\u96e8\u7fc5\u86fe",
+      "japanese": "アメモース",
+      "chinese": "雨翅蛾",
       "french": "Maskadra"
     },
     "type": [
@@ -8471,8 +8471,8 @@
     "id": 285,
     "name": {
       "english": "Shroomish",
-      "japanese": "\u30ad\u30ce\u30b3\u30b3",
-      "chinese": "\u8611\u8611\u83c7",
+      "japanese": "キノココ",
+      "chinese": "蘑蘑菇",
       "french": "Balignon"
     },
     "type": [
@@ -8501,8 +8501,8 @@
     "id": 286,
     "name": {
       "english": "Breloom",
-      "japanese": "\u30ad\u30ce\u30ac\u30c3\u30b5",
-      "chinese": "\u6597\u7b20\u83c7",
+      "japanese": "キノガッサ",
+      "chinese": "斗笠菇",
       "french": "Chapignon"
     },
     "type": [
@@ -8530,8 +8530,8 @@
     "id": 287,
     "name": {
       "english": "Slakoth",
-      "japanese": "\u30ca\u30de\u30b1\u30ed",
-      "chinese": "\u61d2\u4eba\u736d",
+      "japanese": "ナマケロ",
+      "chinese": "懒人獭",
       "french": "Parecool"
     },
     "type": [
@@ -8560,8 +8560,8 @@
     "id": 288,
     "name": {
       "english": "Vigoroth",
-      "japanese": "\u30e4\u30eb\u30ad\u30e2\u30ce",
-      "chinese": "\u8fc7\u52a8\u733f",
+      "japanese": "ヤルキモノ",
+      "chinese": "过动猿",
       "french": "Vigoroth"
     },
     "type": [
@@ -8594,9 +8594,9 @@
     "id": 289,
     "name": {
       "english": "Slaking",
-      "japanese": "\u30b1\u30c3\u30ad\u30f3\u30b0",
-      "chinese": "\u8bf7\u5047\u738b",
-      "french": "Monafl\u00e8mit"
+      "japanese": "ケッキング",
+      "chinese": "请假王",
+      "french": "Monaflèmit"
     },
     "type": [
       "Normal"
@@ -8622,8 +8622,8 @@
     "id": 290,
     "name": {
       "english": "Nincada",
-      "japanese": "\u30c4\u30c1\u30cb\u30f3",
-      "chinese": "\u571f\u5c45\u5fcd\u58eb",
+      "japanese": "ツチニン",
+      "chinese": "土居忍士",
       "french": "Ningale"
     },
     "type": [
@@ -8646,7 +8646,7 @@
         ],
         [
           "292",
-          "Level 20, empty spot in party, Pok\u00e9ball in bag"
+          "Level 20, empty spot in party, Pokéball in bag"
         ]
       ]
     },
@@ -8657,8 +8657,8 @@
     "id": 291,
     "name": {
       "english": "Ninjask",
-      "japanese": "\u30c6\u30c3\u30ab\u30cb\u30f3",
-      "chinese": "\u94c1\u9762\u5fcd\u8005",
+      "japanese": "テッカニン",
+      "chinese": "铁面忍者",
       "french": "Ninjask"
     },
     "type": [
@@ -8686,8 +8686,8 @@
     "id": 292,
     "name": {
       "english": "Shedinja",
-      "japanese": "\u30cc\u30b1\u30cb\u30f3",
-      "chinese": "\u8131\u58f3\u5fcd\u8005",
+      "japanese": "ヌケニン",
+      "chinese": "脱壳忍者",
       "french": "Munja"
     },
     "type": [
@@ -8705,7 +8705,7 @@
     "evolution": {
       "prev": [
         "290",
-        "Level 20, empty spot in party, Pok\u00e9ball in bag"
+        "Level 20, empty spot in party, Pokéball in bag"
       ]
     },
     "image": "https://github.com/yuttasartviratpan/pokemon-data/blob/main/images/292.png",
@@ -8715,8 +8715,8 @@
     "id": 293,
     "name": {
       "english": "Whismur",
-      "japanese": "\u30b4\u30cb\u30e7\u30cb\u30e7",
-      "chinese": "\u5495\u599e\u599e",
+      "japanese": "ゴニョニョ",
+      "chinese": "咕妞妞",
       "french": "Chuchmur"
     },
     "type": [
@@ -8745,8 +8745,8 @@
     "id": 294,
     "name": {
       "english": "Loudred",
-      "japanese": "\u30c9\u30b4\u30fc\u30e0",
-      "chinese": "\u543c\u7206\u5f39",
+      "japanese": "ドゴーム",
+      "chinese": "吼爆弹",
       "french": "Ramboum"
     },
     "type": [
@@ -8779,8 +8779,8 @@
     "id": 295,
     "name": {
       "english": "Exploud",
-      "japanese": "\u30d0\u30af\u30aa\u30f3\u30b0",
-      "chinese": "\u7206\u97f3\u602a",
+      "japanese": "バクオング",
+      "chinese": "爆音怪",
       "french": "Brouhabam"
     },
     "type": [
@@ -8807,8 +8807,8 @@
     "id": 296,
     "name": {
       "english": "Makuhita",
-      "japanese": "\u30de\u30af\u30ce\u30b7\u30bf",
-      "chinese": "\u5e55\u4e0b\u529b\u58eb",
+      "japanese": "マクノシタ",
+      "chinese": "幕下力士",
       "french": "Makuhita"
     },
     "type": [
@@ -8837,8 +8837,8 @@
     "id": 297,
     "name": {
       "english": "Hariyama",
-      "japanese": "\u30cf\u30ea\u30c6\u30e4\u30de",
-      "chinese": "\u94c1\u638c\u529b\u58eb",
+      "japanese": "ハリテヤマ",
+      "chinese": "铁掌力士",
       "french": "Hariyama"
     },
     "type": [
@@ -8865,8 +8865,8 @@
     "id": 298,
     "name": {
       "english": "Azurill",
-      "japanese": "\u30eb\u30ea\u30ea",
-      "chinese": "\u9732\u529b\u4e3d",
+      "japanese": "ルリリ",
+      "chinese": "露力丽",
       "french": "Azurill"
     },
     "type": [
@@ -8896,8 +8896,8 @@
     "id": 299,
     "name": {
       "english": "Nosepass",
-      "japanese": "\u30ce\u30ba\u30d1\u30b9",
-      "chinese": "\u671d\u5317\u9f3b",
+      "japanese": "ノズパス",
+      "chinese": "朝北鼻",
       "french": "Tarinor"
     },
     "type": [
@@ -8926,8 +8926,8 @@
     "id": 300,
     "name": {
       "english": "Skitty",
-      "japanese": "\u30a8\u30cd\u30b3",
-      "chinese": "\u5411\u5c3e\u55b5",
+      "japanese": "エネコ",
+      "chinese": "向尾喵",
       "french": "Skitty"
     },
     "type": [
@@ -8956,8 +8956,8 @@
     "id": 301,
     "name": {
       "english": "Delcatty",
-      "japanese": "\u30a8\u30cd\u30b3\u30ed\u30ed",
-      "chinese": "\u4f18\u96c5\u732b",
+      "japanese": "エネコロロ",
+      "chinese": "优雅猫",
       "french": "Delcatty"
     },
     "type": [
@@ -8984,9 +8984,9 @@
     "id": 302,
     "name": {
       "english": "Sableye",
-      "japanese": "\u30e4\u30df\u30e9\u30df",
-      "chinese": "\u52fe\u9b42\u773c",
-      "french": "T\u00e9n\u00e9fix"
+      "japanese": "ヤミラミ",
+      "chinese": "勾魂眼",
+      "french": "Ténéfix"
     },
     "type": [
       "Dark",
@@ -9008,8 +9008,8 @@
     "id": 303,
     "name": {
       "english": "Mawile",
-      "japanese": "\u30af\u30c1\u30fc\u30c8",
-      "chinese": "\u5927\u5634\u5a03",
+      "japanese": "クチート",
+      "chinese": "大嘴娃",
       "french": "Mysdibule"
     },
     "type": [
@@ -9032,8 +9032,8 @@
     "id": 304,
     "name": {
       "english": "Aron",
-      "japanese": "\u30b3\u30b3\u30c9\u30e9",
-      "chinese": "\u53ef\u53ef\u591a\u62c9",
+      "japanese": "ココドラ",
+      "chinese": "可可多拉",
       "french": "Galekid"
     },
     "type": [
@@ -9063,8 +9063,8 @@
     "id": 305,
     "name": {
       "english": "Lairon",
-      "japanese": "\u30b3\u30c9\u30e9",
-      "chinese": "\u53ef\u591a\u62c9",
+      "japanese": "コドラ",
+      "chinese": "可多拉",
       "french": "Galegon"
     },
     "type": [
@@ -9098,8 +9098,8 @@
     "id": 306,
     "name": {
       "english": "Aggron",
-      "japanese": "\u30dc\u30b9\u30b4\u30c9\u30e9",
-      "chinese": "\u6ce2\u58eb\u53ef\u591a\u62c9",
+      "japanese": "ボスゴドラ",
+      "chinese": "波士可多拉",
       "french": "Galeking"
     },
     "type": [
@@ -9127,9 +9127,9 @@
     "id": 307,
     "name": {
       "english": "Meditite",
-      "japanese": "\u30a2\u30b5\u30ca\u30f3",
-      "chinese": "\u739b\u6c99\u90a3",
-      "french": "M\u00e9ditikka"
+      "japanese": "アサナン",
+      "chinese": "玛沙那",
+      "french": "Méditikka"
     },
     "type": [
       "Fighting",
@@ -9158,8 +9158,8 @@
     "id": 308,
     "name": {
       "english": "Medicham",
-      "japanese": "\u30c1\u30e3\u30fc\u30ec\u30e0",
-      "chinese": "\u6070\u96f7\u59c6",
+      "japanese": "チャーレム",
+      "chinese": "恰雷姆",
       "french": "Charmina"
     },
     "type": [
@@ -9187,8 +9187,8 @@
     "id": 309,
     "name": {
       "english": "Electrike",
-      "japanese": "\u30e9\u30af\u30e9\u30a4",
-      "chinese": "\u843d\u96f7\u517d",
+      "japanese": "ラクライ",
+      "chinese": "落雷兽",
       "french": "Dynavolt"
     },
     "type": [
@@ -9217,9 +9217,9 @@
     "id": 310,
     "name": {
       "english": "Manectric",
-      "japanese": "\u30e9\u30a4\u30dc\u30eb\u30c8",
-      "chinese": "\u96f7\u7535\u517d",
-      "french": "\u00c9lecsprint"
+      "japanese": "ライボルト",
+      "chinese": "雷电兽",
+      "french": "Élecsprint"
     },
     "type": [
       "Electric"
@@ -9245,8 +9245,8 @@
     "id": 311,
     "name": {
       "english": "Plusle",
-      "japanese": "\u30d7\u30e9\u30b9\u30eb",
-      "chinese": "\u6b63\u7535\u62cd\u62cd",
+      "japanese": "プラスル",
+      "chinese": "正电拍拍",
       "french": "Posipi"
     },
     "type": [
@@ -9268,9 +9268,9 @@
     "id": 312,
     "name": {
       "english": "Minun",
-      "japanese": "\u30de\u30a4\u30ca\u30f3",
-      "chinese": "\u8d1f\u7535\u62cd\u62cd",
-      "french": "N\u00e9gapi"
+      "japanese": "マイナン",
+      "chinese": "负电拍拍",
+      "french": "Négapi"
     },
     "type": [
       "Electric"
@@ -9291,8 +9291,8 @@
     "id": 313,
     "name": {
       "english": "Volbeat",
-      "japanese": "\u30d0\u30eb\u30d3\u30fc\u30c8",
-      "chinese": "\u7535\u8424\u866b",
+      "japanese": "バルビート",
+      "chinese": "电萤虫",
       "french": "Muciole"
     },
     "type": [
@@ -9314,8 +9314,8 @@
     "id": 314,
     "name": {
       "english": "Illumise",
-      "japanese": "\u30a4\u30eb\u30df\u30fc\u30bc",
-      "chinese": "\u751c\u751c\u8424",
+      "japanese": "イルミーゼ",
+      "chinese": "甜甜萤",
       "french": "Lumivole"
     },
     "type": [
@@ -9337,9 +9337,9 @@
     "id": 315,
     "name": {
       "english": "Roselia",
-      "japanese": "\u30ed\u30bc\u30ea\u30a2",
-      "chinese": "\u6bd2\u8537\u8587",
-      "french": "Ros\u00e9lia"
+      "japanese": "ロゼリア",
+      "chinese": "毒蔷薇",
+      "french": "Rosélia"
     },
     "type": [
       "Grass",
@@ -9372,8 +9372,8 @@
     "id": 316,
     "name": {
       "english": "Gulpin",
-      "japanese": "\u30b4\u30af\u30ea\u30f3",
-      "chinese": "\u6eb6\u98df\u517d",
+      "japanese": "ゴクリン",
+      "chinese": "溶食兽",
       "french": "Gloupti"
     },
     "type": [
@@ -9402,8 +9402,8 @@
     "id": 317,
     "name": {
       "english": "Swalot",
-      "japanese": "\u30de\u30eb\u30ce\u30fc\u30e0",
-      "chinese": "\u541e\u98df\u517d",
+      "japanese": "マルノーム",
+      "chinese": "吞食兽",
       "french": "Avaltout"
     },
     "type": [
@@ -9430,8 +9430,8 @@
     "id": 318,
     "name": {
       "english": "Carvanha",
-      "japanese": "\u30ad\u30d0\u30cb\u30a2",
-      "chinese": "\u5229\u7259\u9c7c",
+      "japanese": "キバニア",
+      "chinese": "利牙鱼",
       "french": "Carvanha"
     },
     "type": [
@@ -9461,8 +9461,8 @@
     "id": 319,
     "name": {
       "english": "Sharpedo",
-      "japanese": "\u30b5\u30e1\u30cf\u30c0\u30fc",
-      "chinese": "\u5de8\u7259\u9ca8",
+      "japanese": "サメハダー",
+      "chinese": "巨牙鲨",
       "french": "Sharpedo"
     },
     "type": [
@@ -9490,8 +9490,8 @@
     "id": 320,
     "name": {
       "english": "Wailmer",
-      "japanese": "\u30db\u30a8\u30eb\u30b3",
-      "chinese": "\u543c\u543c\u9cb8",
+      "japanese": "ホエルコ",
+      "chinese": "吼吼鲸",
       "french": "Wailmer"
     },
     "type": [
@@ -9520,8 +9520,8 @@
     "id": 321,
     "name": {
       "english": "Wailord",
-      "japanese": "\u30db\u30a8\u30eb\u30aa\u30fc",
-      "chinese": "\u543c\u9cb8\u738b",
+      "japanese": "ホエルオー",
+      "chinese": "吼鲸王",
       "french": "Wailord"
     },
     "type": [
@@ -9548,8 +9548,8 @@
     "id": 322,
     "name": {
       "english": "Numel",
-      "japanese": "\u30c9\u30f3\u30e1\u30eb",
-      "chinese": "\u5446\u706b\u9a7c",
+      "japanese": "ドンメル",
+      "chinese": "呆火驼",
       "french": "Chamallot"
     },
     "type": [
@@ -9579,9 +9579,9 @@
     "id": 323,
     "name": {
       "english": "Camerupt",
-      "japanese": "\u30d0\u30af\u30fc\u30c0",
-      "chinese": "\u55b7\u706b\u9a7c",
-      "french": "Cam\u00e9rupt"
+      "japanese": "バクーダ",
+      "chinese": "喷火驼",
+      "french": "Camérupt"
     },
     "type": [
       "Fire",
@@ -9608,8 +9608,8 @@
     "id": 324,
     "name": {
       "english": "Torkoal",
-      "japanese": "\u30b3\u30fc\u30bf\u30b9",
-      "chinese": "\u7164\u70ad\u9f9f",
+      "japanese": "コータス",
+      "chinese": "煤炭龟",
       "french": "Chartor"
     },
     "type": [
@@ -9631,8 +9631,8 @@
     "id": 325,
     "name": {
       "english": "Spoink",
-      "japanese": "\u30d0\u30cd\u30d6\u30fc",
-      "chinese": "\u8df3\u8df3\u732a",
+      "japanese": "バネブー",
+      "chinese": "跳跳猪",
       "french": "Spoink"
     },
     "type": [
@@ -9661,8 +9661,8 @@
     "id": 326,
     "name": {
       "english": "Grumpig",
-      "japanese": "\u30d6\u30fc\u30d4\u30c3\u30b0",
-      "chinese": "\u5657\u5657\u732a",
+      "japanese": "ブーピッグ",
+      "chinese": "噗噗猪",
       "french": "Groret"
     },
     "type": [
@@ -9689,8 +9689,8 @@
     "id": 327,
     "name": {
       "english": "Spinda",
-      "japanese": "\u30d1\u30c3\u30c1\u30fc\u30eb",
-      "chinese": "\u6643\u6643\u6591",
+      "japanese": "パッチール",
+      "chinese": "晃晃斑",
       "french": "Spinda"
     },
     "type": [
@@ -9712,8 +9712,8 @@
     "id": 328,
     "name": {
       "english": "Trapinch",
-      "japanese": "\u30ca\u30c3\u30af\u30e9\u30fc",
-      "chinese": "\u5927\u989a\u8681",
+      "japanese": "ナックラー",
+      "chinese": "大颚蚁",
       "french": "Kraknoix"
     },
     "type": [
@@ -9742,8 +9742,8 @@
     "id": 329,
     "name": {
       "english": "Vibrava",
-      "japanese": "\u30d3\u30d6\u30e9\u30fc\u30d0",
-      "chinese": "\u8d85\u97f3\u6ce2\u5e7c\u866b",
+      "japanese": "ビブラーバ",
+      "chinese": "超音波幼虫",
       "french": "Vibraninf"
     },
     "type": [
@@ -9777,9 +9777,9 @@
     "id": 330,
     "name": {
       "english": "Flygon",
-      "japanese": "\u30d5\u30e9\u30a4\u30b4\u30f3",
-      "chinese": "\u6c99\u6f20\u873b\u8713",
-      "french": "Lib\u00e9gon"
+      "japanese": "フライゴン",
+      "chinese": "沙漠蜻蜓",
+      "french": "Libégon"
     },
     "type": [
       "Ground",
@@ -9806,8 +9806,8 @@
     "id": 331,
     "name": {
       "english": "Cacnea",
-      "japanese": "\u30b5\u30dc\u30cd\u30a2",
-      "chinese": "\u523a\u7403\u4ed9\u4eba\u638c",
+      "japanese": "サボネア",
+      "chinese": "刺球仙人掌",
       "french": "Cacnea"
     },
     "type": [
@@ -9836,8 +9836,8 @@
     "id": 332,
     "name": {
       "english": "Cacturne",
-      "japanese": "\u30ce\u30af\u30bf\u30b9",
-      "chinese": "\u68a6\u6b4c\u4ed9\u4eba\u638c",
+      "japanese": "ノクタス",
+      "chinese": "梦歌仙人掌",
       "french": "Cacturne"
     },
     "type": [
@@ -9865,8 +9865,8 @@
     "id": 333,
     "name": {
       "english": "Swablu",
-      "japanese": "\u30c1\u30eb\u30c3\u30c8",
-      "chinese": "\u9752\u7ef5\u9e1f",
+      "japanese": "チルット",
+      "chinese": "青绵鸟",
       "french": "Tylton"
     },
     "type": [
@@ -9896,8 +9896,8 @@
     "id": 334,
     "name": {
       "english": "Altaria",
-      "japanese": "\u30c1\u30eb\u30bf\u30ea\u30b9",
-      "chinese": "\u4e03\u5915\u9752\u9e1f",
+      "japanese": "チルタリス",
+      "chinese": "七夕青鸟",
       "french": "Altaria"
     },
     "type": [
@@ -9925,8 +9925,8 @@
     "id": 335,
     "name": {
       "english": "Zangoose",
-      "japanese": "\u30b6\u30f3\u30b0\u30fc\u30b9",
-      "chinese": "\u732b\u9f2c\u65a9",
+      "japanese": "ザングース",
+      "chinese": "猫鼬斩",
       "french": "Mangriff"
     },
     "type": [
@@ -9948,9 +9948,9 @@
     "id": 336,
     "name": {
       "english": "Seviper",
-      "japanese": "\u30cf\u30d6\u30cd\u30fc\u30af",
-      "chinese": "\u996d\u5319\u86c7",
-      "french": "S\u00e9viper"
+      "japanese": "ハブネーク",
+      "chinese": "饭匙蛇",
+      "french": "Séviper"
     },
     "type": [
       "Poison"
@@ -9971,9 +9971,9 @@
     "id": 337,
     "name": {
       "english": "Lunatone",
-      "japanese": "\u30eb\u30ca\u30c8\u30fc\u30f3",
-      "chinese": "\u6708\u77f3",
-      "french": "S\u00e9l\u00e9roc"
+      "japanese": "ルナトーン",
+      "chinese": "月石",
+      "french": "Séléroc"
     },
     "type": [
       "Rock",
@@ -9995,8 +9995,8 @@
     "id": 338,
     "name": {
       "english": "Solrock",
-      "japanese": "\u30bd\u30eb\u30ed\u30c3\u30af",
-      "chinese": "\u592a\u9633\u5ca9",
+      "japanese": "ソルロック",
+      "chinese": "太阳岩",
       "french": "Solaroc"
     },
     "type": [
@@ -10019,8 +10019,8 @@
     "id": 339,
     "name": {
       "english": "Barboach",
-      "japanese": "\u30c9\u30b8\u30e7\u30c3\u30c1",
-      "chinese": "\u6ce5\u6ce5\u9cc5",
+      "japanese": "ドジョッチ",
+      "chinese": "泥泥鳅",
       "french": "Barloche"
     },
     "type": [
@@ -10050,8 +10050,8 @@
     "id": 340,
     "name": {
       "english": "Whiscash",
-      "japanese": "\u30ca\u30de\u30ba\u30f3",
-      "chinese": "\u9cb6\u9c7c\u738b",
+      "japanese": "ナマズン",
+      "chinese": "鲶鱼王",
       "french": "Barbicha"
     },
     "type": [
@@ -10079,9 +10079,9 @@
     "id": 341,
     "name": {
       "english": "Corphish",
-      "japanese": "\u30d8\u30a4\u30ac\u30cb",
-      "chinese": "\u9f99\u867e\u5c0f\u5175",
-      "french": "\u00c9crapince"
+      "japanese": "ヘイガニ",
+      "chinese": "龙虾小兵",
+      "french": "Écrapince"
     },
     "type": [
       "Water"
@@ -10109,8 +10109,8 @@
     "id": 342,
     "name": {
       "english": "Crawdaunt",
-      "japanese": "\u30b7\u30b6\u30ea\u30ac\u30fc",
-      "chinese": "\u94c1\u87af\u9f99\u867e",
+      "japanese": "シザリガー",
+      "chinese": "铁螯龙虾",
       "french": "Colhomard"
     },
     "type": [
@@ -10138,8 +10138,8 @@
     "id": 343,
     "name": {
       "english": "Baltoy",
-      "japanese": "\u30e4\u30b8\u30ed\u30f3",
-      "chinese": "\u5929\u79e4\u5076",
+      "japanese": "ヤジロン",
+      "chinese": "天秤偶",
       "french": "Balbuto"
     },
     "type": [
@@ -10169,8 +10169,8 @@
     "id": 344,
     "name": {
       "english": "Claydol",
-      "japanese": "\u30cd\u30f3\u30c9\u30fc\u30eb",
-      "chinese": "\u5ff5\u529b\u571f\u5076",
+      "japanese": "ネンドール",
+      "chinese": "念力土偶",
       "french": "Kaorine"
     },
     "type": [
@@ -10198,8 +10198,8 @@
     "id": 345,
     "name": {
       "english": "Lileep",
-      "japanese": "\u30ea\u30ea\u30fc\u30e9",
-      "chinese": "\u89e6\u624b\u767e\u5408",
+      "japanese": "リリーラ",
+      "chinese": "触手百合",
       "french": "Lilia"
     },
     "type": [
@@ -10229,8 +10229,8 @@
     "id": 346,
     "name": {
       "english": "Cradily",
-      "japanese": "\u30e6\u30ec\u30a4\u30c9\u30eb",
-      "chinese": "\u6447\u7bee\u767e\u5408",
+      "japanese": "ユレイドル",
+      "chinese": "摇篮百合",
       "french": "Vacilys"
     },
     "type": [
@@ -10258,8 +10258,8 @@
     "id": 347,
     "name": {
       "english": "Anorith",
-      "japanese": "\u30a2\u30ce\u30d7\u30b9",
-      "chinese": "\u592a\u53e4\u7fbd\u866b",
+      "japanese": "アノプス",
+      "chinese": "太古羽虫",
       "french": "Anorith"
     },
     "type": [
@@ -10289,8 +10289,8 @@
     "id": 348,
     "name": {
       "english": "Armaldo",
-      "japanese": "\u30a2\u30fc\u30de\u30eb\u30c9",
-      "chinese": "\u592a\u53e4\u76d4\u7532",
+      "japanese": "アーマルド",
+      "chinese": "太古盔甲",
       "french": "Armaldo"
     },
     "type": [
@@ -10318,8 +10318,8 @@
     "id": 349,
     "name": {
       "english": "Feebas",
-      "japanese": "\u30d2\u30f3\u30d0\u30b9",
-      "chinese": "\u4e11\u4e11\u9c7c",
+      "japanese": "ヒンバス",
+      "chinese": "丑丑鱼",
       "french": "Barpau"
     },
     "type": [
@@ -10348,8 +10348,8 @@
     "id": 350,
     "name": {
       "english": "Milotic",
-      "japanese": "\u30df\u30ed\u30ab\u30ed\u30b9",
-      "chinese": "\u7f8e\u7eb3\u65af",
+      "japanese": "ミロカロス",
+      "chinese": "美纳斯",
       "french": "Milobellus"
     },
     "type": [
@@ -10376,9 +10376,9 @@
     "id": 351,
     "name": {
       "english": "Castform",
-      "japanese": "\u30dd\u30ef\u30eb\u30f3",
-      "chinese": "\u98d8\u6d6e\u6ce1\u6ce1",
-      "french": "Morph\u00e9o"
+      "japanese": "ポワルン",
+      "chinese": "飘浮泡泡",
+      "french": "Morphéo"
     },
     "type": [
       "Normal"
@@ -10399,8 +10399,8 @@
     "id": 352,
     "name": {
       "english": "Kecleon",
-      "japanese": "\u30ab\u30af\u30ec\u30aa\u30f3",
-      "chinese": "\u53d8\u9690\u9f99",
+      "japanese": "カクレオン",
+      "chinese": "变隐龙",
       "french": "Kecleon"
     },
     "type": [
@@ -10422,8 +10422,8 @@
     "id": 353,
     "name": {
       "english": "Shuppet",
-      "japanese": "\u30ab\u30b2\u30dc\u30a6\u30ba",
-      "chinese": "\u6028\u5f71\u5a03\u5a03",
+      "japanese": "カゲボウズ",
+      "chinese": "怨影娃娃",
       "french": "Polichombr"
     },
     "type": [
@@ -10452,8 +10452,8 @@
     "id": 354,
     "name": {
       "english": "Banette",
-      "japanese": "\u30b8\u30e5\u30da\u30c3\u30bf",
-      "chinese": "\u8bc5\u5492\u5a03\u5a03",
+      "japanese": "ジュペッタ",
+      "chinese": "诅咒娃娃",
       "french": "Branette"
     },
     "type": [
@@ -10480,9 +10480,9 @@
     "id": 355,
     "name": {
       "english": "Duskull",
-      "japanese": "\u30e8\u30de\u30ef\u30eb",
-      "chinese": "\u591c\u5de1\u7075",
-      "french": "Skel\u00e9nox"
+      "japanese": "ヨマワル",
+      "chinese": "夜巡灵",
+      "french": "Skelénox"
     },
     "type": [
       "Ghost"
@@ -10510,9 +10510,9 @@
     "id": 356,
     "name": {
       "english": "Dusclops",
-      "japanese": "\u30b5\u30de\u30e8\u30fc\u30eb",
-      "chinese": "\u5f77\u5fa8\u591c\u7075",
-      "french": "T\u00e9raclope"
+      "japanese": "サマヨール",
+      "chinese": "彷徨夜灵",
+      "french": "Téraclope"
     },
     "type": [
       "Ghost"
@@ -10544,8 +10544,8 @@
     "id": 357,
     "name": {
       "english": "Tropius",
-      "japanese": "\u30c8\u30ed\u30d4\u30a6\u30b9",
-      "chinese": "\u70ed\u5e26\u9f99",
+      "japanese": "トロピウス",
+      "chinese": "热带龙",
       "french": "Tropius"
     },
     "type": [
@@ -10568,9 +10568,9 @@
     "id": 358,
     "name": {
       "english": "Chimecho",
-      "japanese": "\u30c1\u30ea\u30fc\u30f3",
-      "chinese": "\u98ce\u94c3\u94c3",
-      "french": "\u00c9oko"
+      "japanese": "チリーン",
+      "chinese": "风铃铃",
+      "french": "Éoko"
     },
     "type": [
       "Psychic"
@@ -10596,8 +10596,8 @@
     "id": 359,
     "name": {
       "english": "Absol",
-      "japanese": "\u30a2\u30d6\u30bd\u30eb",
-      "chinese": "\u963f\u52c3\u68ad\u9c81",
+      "japanese": "アブソル",
+      "chinese": "阿勃梭鲁",
       "french": "Absol"
     },
     "type": [
@@ -10619,9 +10619,9 @@
     "id": 360,
     "name": {
       "english": "Wynaut",
-      "japanese": "\u30bd\u30fc\u30ca\u30ce",
-      "chinese": "\u5c0f\u679c\u7136",
-      "french": "Ok\u00e9ok\u00e9"
+      "japanese": "ソーナノ",
+      "chinese": "小果然",
+      "french": "Okéoké"
     },
     "type": [
       "Psychic"
@@ -10649,8 +10649,8 @@
     "id": 361,
     "name": {
       "english": "Snorunt",
-      "japanese": "\u30e6\u30ad\u30ef\u30e9\u30b7",
-      "chinese": "\u96ea\u7ae5\u5b50",
+      "japanese": "ユキワラシ",
+      "chinese": "雪童子",
       "french": "Stalgamin"
     },
     "type": [
@@ -10683,8 +10683,8 @@
     "id": 362,
     "name": {
       "english": "Glalie",
-      "japanese": "\u30aa\u30cb\u30b4\u30fc\u30ea",
-      "chinese": "\u51b0\u9b3c\u62a4",
+      "japanese": "オニゴーリ",
+      "chinese": "冰鬼护",
       "french": "Oniglali"
     },
     "type": [
@@ -10711,8 +10711,8 @@
     "id": 363,
     "name": {
       "english": "Spheal",
-      "japanese": "\u30bf\u30de\u30b6\u30e9\u30b7",
-      "chinese": "\u6d77\u8c79\u7403",
+      "japanese": "タマザラシ",
+      "chinese": "海豹球",
       "french": "Obalie"
     },
     "type": [
@@ -10742,8 +10742,8 @@
     "id": 364,
     "name": {
       "english": "Sealeo",
-      "japanese": "\u30c8\u30c9\u30b0\u30e9\u30fc",
-      "chinese": "\u6d77\u9b54\u72ee",
+      "japanese": "トドグラー",
+      "chinese": "海魔狮",
       "french": "Phogleur"
     },
     "type": [
@@ -10777,8 +10777,8 @@
     "id": 365,
     "name": {
       "english": "Walrein",
-      "japanese": "\u30c8\u30c9\u30bc\u30eb\u30ac",
-      "chinese": "\u5e1d\u7259\u6d77\u72ee",
+      "japanese": "トドゼルガ",
+      "chinese": "帝牙海狮",
       "french": "Kaimorse"
     },
     "type": [
@@ -10806,8 +10806,8 @@
     "id": 366,
     "name": {
       "english": "Clamperl",
-      "japanese": "\u30d1\u30fc\u30eb\u30eb",
-      "chinese": "\u73cd\u73e0\u8d1d",
+      "japanese": "パールル",
+      "chinese": "珍珠贝",
       "french": "Coquiperl"
     },
     "type": [
@@ -10840,8 +10840,8 @@
     "id": 367,
     "name": {
       "english": "Huntail",
-      "japanese": "\u30cf\u30f3\u30c6\u30fc\u30eb",
-      "chinese": "\u730e\u6591\u9c7c",
+      "japanese": "ハンテール",
+      "chinese": "猎斑鱼",
       "french": "Serpang"
     },
     "type": [
@@ -10868,8 +10868,8 @@
     "id": 368,
     "name": {
       "english": "Gorebyss",
-      "japanese": "\u30b5\u30af\u30e9\u30d3\u30b9",
-      "chinese": "\u6a31\u82b1\u9c7c",
+      "japanese": "サクラビス",
+      "chinese": "樱花鱼",
       "french": "Rosabyss"
     },
     "type": [
@@ -10896,8 +10896,8 @@
     "id": 369,
     "name": {
       "english": "Relicanth",
-      "japanese": "\u30b8\u30fc\u30e9\u30f3\u30b9",
-      "chinese": "\u53e4\u7a7a\u68d8\u9c7c",
+      "japanese": "ジーランス",
+      "chinese": "古空棘鱼",
       "french": "Relicanth"
     },
     "type": [
@@ -10920,8 +10920,8 @@
     "id": 370,
     "name": {
       "english": "Luvdisc",
-      "japanese": "\u30e9\u30d6\u30ab\u30b9",
-      "chinese": "\u7231\u5fc3\u9c7c",
+      "japanese": "ラブカス",
+      "chinese": "爱心鱼",
       "french": "Lovdisc"
     },
     "type": [
@@ -10943,8 +10943,8 @@
     "id": 371,
     "name": {
       "english": "Bagon",
-      "japanese": "\u30bf\u30c4\u30d9\u30a4",
-      "chinese": "\u5b9d\u8d1d\u9f99",
+      "japanese": "タツベイ",
+      "chinese": "宝贝龙",
       "french": "Draby"
     },
     "type": [
@@ -10973,8 +10973,8 @@
     "id": 372,
     "name": {
       "english": "Shelgon",
-      "japanese": "\u30b3\u30e2\u30eb\u30fc",
-      "chinese": "\u7532\u58f3\u9f99",
+      "japanese": "コモルー",
+      "chinese": "甲壳龙",
       "french": "Drackhaus"
     },
     "type": [
@@ -11007,8 +11007,8 @@
     "id": 373,
     "name": {
       "english": "Salamence",
-      "japanese": "\u30dc\u30fc\u30de\u30f3\u30c0",
-      "chinese": "\u66b4\u98de\u9f99",
+      "japanese": "ボーマンダ",
+      "chinese": "暴飞龙",
       "french": "Drattak"
     },
     "type": [
@@ -11036,8 +11036,8 @@
     "id": 374,
     "name": {
       "english": "Beldum",
-      "japanese": "\u30c0\u30f3\u30d0\u30eb",
-      "chinese": "\u94c1\u54d1\u94c3",
+      "japanese": "ダンバル",
+      "chinese": "铁哑铃",
       "french": "Terhal"
     },
     "type": [
@@ -11067,9 +11067,9 @@
     "id": 375,
     "name": {
       "english": "Metang",
-      "japanese": "\u30e1\u30bf\u30f3\u30b0",
-      "chinese": "\u91d1\u5c5e\u602a",
-      "french": "M\u00e9tang"
+      "japanese": "メタング",
+      "chinese": "金属怪",
+      "french": "Métang"
     },
     "type": [
       "Steel",
@@ -11102,9 +11102,9 @@
     "id": 376,
     "name": {
       "english": "Metagross",
-      "japanese": "\u30e1\u30bf\u30b0\u30ed\u30b9",
-      "chinese": "\u5de8\u91d1\u602a",
-      "french": "M\u00e9talosse"
+      "japanese": "メタグロス",
+      "chinese": "巨金怪",
+      "french": "Métalosse"
     },
     "type": [
       "Steel",
@@ -11131,8 +11131,8 @@
     "id": 377,
     "name": {
       "english": "Regirock",
-      "japanese": "\u30ec\u30b8\u30ed\u30c3\u30af",
-      "chinese": "\u96f7\u5409\u6d1b\u514b",
+      "japanese": "レジロック",
+      "chinese": "雷吉洛克",
       "french": "Regirock"
     },
     "type": [
@@ -11154,8 +11154,8 @@
     "id": 378,
     "name": {
       "english": "Regice",
-      "japanese": "\u30ec\u30b8\u30a2\u30a4\u30b9",
-      "chinese": "\u96f7\u5409\u827e\u65af",
+      "japanese": "レジアイス",
+      "chinese": "雷吉艾斯",
       "french": "Regice"
     },
     "type": [
@@ -11177,8 +11177,8 @@
     "id": 379,
     "name": {
       "english": "Registeel",
-      "japanese": "\u30ec\u30b8\u30b9\u30c1\u30eb",
-      "chinese": "\u96f7\u5409\u65af\u5947\u9c81",
+      "japanese": "レジスチル",
+      "chinese": "雷吉斯奇鲁",
       "french": "Registeel"
     },
     "type": [
@@ -11200,8 +11200,8 @@
     "id": 380,
     "name": {
       "english": "Latias",
-      "japanese": "\u30e9\u30c6\u30a3\u30a2\u30b9",
-      "chinese": "\u62c9\u5e1d\u4e9a\u65af",
+      "japanese": "ラティアス",
+      "chinese": "拉帝亚斯",
       "french": "Latias"
     },
     "type": [
@@ -11224,8 +11224,8 @@
     "id": 381,
     "name": {
       "english": "Latios",
-      "japanese": "\u30e9\u30c6\u30a3\u30aa\u30b9",
-      "chinese": "\u62c9\u5e1d\u6b27\u65af",
+      "japanese": "ラティオス",
+      "chinese": "拉帝欧斯",
       "french": "Latios"
     },
     "type": [
@@ -11248,8 +11248,8 @@
     "id": 382,
     "name": {
       "english": "Kyogre",
-      "japanese": "\u30ab\u30a4\u30aa\u30fc\u30ac",
-      "chinese": "\u76d6\u6b27\u5361",
+      "japanese": "カイオーガ",
+      "chinese": "盖欧卡",
       "french": "Kyogre"
     },
     "type": [
@@ -11271,8 +11271,8 @@
     "id": 383,
     "name": {
       "english": "Groudon",
-      "japanese": "\u30b0\u30e9\u30fc\u30c9\u30f3",
-      "chinese": "\u56fa\u62c9\u591a",
+      "japanese": "グラードン",
+      "chinese": "固拉多",
       "french": "Groudon"
     },
     "type": [
@@ -11294,8 +11294,8 @@
     "id": 384,
     "name": {
       "english": "Rayquaza",
-      "japanese": "\u30ec\u30c3\u30af\u30a6\u30b6",
-      "chinese": "\u70c8\u7a7a\u5750",
+      "japanese": "レックウザ",
+      "chinese": "烈空坐",
       "french": "Rayquaza"
     },
     "type": [
@@ -11318,8 +11318,8 @@
     "id": 385,
     "name": {
       "english": "Jirachi",
-      "japanese": "\u30b8\u30e9\u30fc\u30c1",
-      "chinese": "\u57fa\u62c9\u7948",
+      "japanese": "ジラーチ",
+      "chinese": "基拉祈",
       "french": "Jirachi"
     },
     "type": [
@@ -11342,8 +11342,8 @@
     "id": 386,
     "name": {
       "english": "Deoxys",
-      "japanese": "\u30c7\u30aa\u30ad\u30b7\u30b9",
-      "chinese": "\u4ee3\u6b27\u5947\u5e0c\u65af",
+      "japanese": "デオキシス",
+      "chinese": "代欧奇希斯",
       "french": "Deoxys"
     },
     "type": [
