@@ -1,282 +1,160 @@
-[
-  {
-    "id": 1,
-    "name": {
-      "english": "Bulbasaur",
-      "japanese": "フシギダネ",
-      "chinese": "妙蛙种子",
-      "french": "Bulbizarre"
-    },
-    "type": [
-      "Grass",
-      "Poison"
-    ],
-    "base": {
-      "HP": 45,
-      "Attack": 49,
-      "Defense": 49,
-      "Sp. Attack": 65,
-      "Sp. Defense": 65,
-      "Speed": 45
-    },
-    "evolution": {
-      "next": [
-        [
-          "2",
-          "Level 16"
-        ]
+{
+  "Pokemons": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "Type 1": "Grass",
+      "Type 2": "Poison",
+      "Japanese Name": "フシギダネ Fushigidane",
+      "Species": "Seed Pokémon",
+      "Ablilities": "Overgrow",
+      "Evolution": "Bulbasaur evolves into Ivysaur starting at level 16, and into Venusaur at level 32.",
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/03/001.png",
+      "Evolutionary line": [
+        "https://static.wikia.nocookie.net/pokemon/images/0/03/001.png",
+        "https://static.wikia.nocookie.net/pokemon/images/b/b0/002.png",
+        "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png",
+        "https://static.wikia.nocookie.net/pokemon/images/1/14/003M.png"
       ]
     },
-    "image": "https://raw.githubusercontent.com/yuttasartviratpan/pokemon-data/main/images/001.png",
-    "generation": 1
-  },
-  {
-    "id": 2,
-    "name": {
-      "english": "Ivysaur",
-      "japanese": "フシギソウ",
-      "chinese": "妙蛙草",
-      "french": "Herbizarre"
-    },
-    "type": [
-      "Grass",
-      "Poison"
-    ],
-    "base": {
-      "HP": 60,
-      "Attack": 62,
-      "Defense": 63,
-      "Sp. Attack": 80,
-      "Sp. Defense": 80,
-      "Speed": 60
-    },
-    "evolution": {
-      "prev": [
-        "1",
-        "Level 16"
-      ],
-      "next": [
-        [
-          "3",
-          "Level 32"
-        ]
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "Type 1": "Grass",
+      "Type 2": "Poison",
+      "Japanese Name": "フシギソウ Fushigisou",
+      "Species": "Seed Pokémon",
+      "Ablilities": "Overgrow",
+      "Evolution": "Ivysaur evolves from Bulbasaur at level 16, and into Venusaur at level 32.",
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b0/002.png",
+      "Evolutionary line": [
+        "https://static.wikia.nocookie.net/pokemon/images/0/03/001.png",
+        "https://static.wikia.nocookie.net/pokemon/images/b/b0/002.png",
+        "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png",
+        "https://static.wikia.nocookie.net/pokemon/images/1/14/003M.png"
       ]
     },
-    "image": "https://raw.githubusercontent.com/yuttasartviratpan/pokemon-data/main/images/002.png",
-    "generation": 1
-  },
-  {
-    "id": 3,
-    "name": {
-      "english": "Venusaur",
-      "japanese": "フシギバナ",
-      "chinese": "妙蛙花",
-      "french": "Florizarre"
-    },
-    "type": [
-      "Grass",
-      "Poison"
-    ],
-    "base": {
-      "HP": 80,
-      "Attack": 82,
-      "Defense": 83,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
-      "Speed": 80
-    },
-    "evolution": {
-      "prev": [
-        "2",
-        "Level 32"
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "Type 1": "Grass",
+      "Type 2": "Poison",
+      "Japanese Name": "フシギバナ Fushigibana",
+      "Species": "Seed Pokémon",
+      "Ablilities": "Overgrow",
+      "Evolution": "Venusaur evolves from Ivysaur at level 32. It can mega evolve into Mega Venusaur using the Venusaurite.",
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png",
+      "Evolutionary line": [
+        "https://static.wikia.nocookie.net/pokemon/images/0/03/001.png",
+        "https://static.wikia.nocookie.net/pokemon/images/b/b0/002.png",
+        "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png",
+        "https://static.wikia.nocookie.net/pokemon/images/1/14/003M.png"
       ]
     },
-    "image": "https://raw.githubusercontent.com/yuttasartviratpan/pokemon-data/main/images/003.png",
-    "generation": 1
-  },
-  {
-    "id": 4,
-    "name": {
-      "english": "Charmander",
-      "japanese": "ヒトカゲ",
-      "chinese": "小火龙",
-      "french": "Salamèche"
-    },
-    "type": [
-      "Fire"
-    ],
-    "base": {
-      "HP": 39,
-      "Attack": 52,
-      "Defense": 43,
-      "Sp. Attack": 60,
-      "Sp. Defense": 50,
-      "Speed": 65
-    },
-    "evolution": {
-      "next": [
-        [
-          "5",
-          "Level 16"
-        ]
+    {
+      "id": 4,
+      "name": "Charmander",
+      "Type 1": "Fire",
+      "Type 2": null,
+      "Japanese Name": "ヒトカゲ Hitokage",
+      "Species": "Lizard Pokémon",
+      "Ablilities": "Blaze",
+      "Evolution": "It evolves into Charmeleon starting at level 16, which evolves into Charizard starting at level 36.",
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/d5/004.png",
+      "Evolutionary line": [
+        "https://static.wikia.nocookie.net/pokemon/images/d/d5/004.png",
+        "https://static.wikia.nocookie.net/pokemon/images/2/20/005.png",
+        "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png",
+        "https://static.wikia.nocookie.net/pokemon/images/e/e8/006M.png",
+        "https://static.wikia.nocookie.net/pokemon/images/7/7e/006M2.png"
       ]
     },
-    "image": "https://raw.githubusercontent.com/yuttasartviratpan/pokemon-data/main/images/004.png",
-    "generation": 1
-  },
-  {
-    "id": 5,
-    "name": {
-      "english": "Charmeleon",
-      "japanese": "リザード",
-      "chinese": "火恐龙",
-      "french": "Reptincel"
-    },
-    "type": [
-      "Fire"
-    ],
-    "base": {
-      "HP": 58,
-      "Attack": 64,
-      "Defense": 58,
-      "Sp. Attack": 80,
-      "Sp. Defense": 65,
-      "Speed": 80
-    },
-    "evolution": {
-      "prev": [
-        "4",
-        "Level 16"
-      ],
-      "next": [
-        [
-          "6",
-          "Level 36"
-        ]
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "Type 1": "Fire",
+      "Type 2": null,
+      "Japanese Name": "リザード Lizardo",
+      "Species": "Flame Pokémon",
+      "Ablilities": "Blaze",
+      "Evolution": "Charmeleon evolves from Charmander at level 16, and evolves into Charizard in level 36.",
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/20/005.png",
+      "Evolutionary line": [
+        "https://static.wikia.nocookie.net/pokemon/images/d/d5/004.png",
+        "https://static.wikia.nocookie.net/pokemon/images/2/20/005.png",
+        "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png",
+        "https://static.wikia.nocookie.net/pokemon/images/e/e8/006M.png",
+        "https://static.wikia.nocookie.net/pokemon/images/7/7e/006M2.png"
       ]
     },
-    "image": "https://raw.githubusercontent.com/yuttasartviratpan/pokemon-data/main/images/005.png",
-    "generation": 1
-  },
-  {
-    "id": 6,
-    "name": {
-      "english": "Charizard",
-      "japanese": "リザードン",
-      "chinese": "喷火龙",
-      "french": "Dracaufeu"
-    },
-    "type": [
-      "Fire",
-      "Flying"
-    ],
-    "base": {
-      "HP": 78,
-      "Attack": 84,
-      "Defense": 78,
-      "Sp. Attack": 109,
-      "Sp. Defense": 85,
-      "Speed": 100
-    },
-    "evolution": {
-      "prev": [
-        "5",
-        "Level 36"
+    {
+      "id": 6,
+      "name": "Charizard",
+      "Type 1": "Fire",
+      "Type 2": "Flying",
+      "Japanese Name": "リザードン Lizardon",
+      "Species": "Flame Pokémon",
+      "Ablilities": "Blaze",
+      "Evolution": "Charizard evolves from Charmeleon starting at level 36. It is the final form of Charmander. It can Mega Evolve into either Mega Charizard X, using the Charizardite X or Mega Charizard Y, using the Charizardite Y.",
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png",
+      "Evolutionary line": [
+        "https://static.wikia.nocookie.net/pokemon/images/d/d5/004.png",
+        "https://static.wikia.nocookie.net/pokemon/images/2/20/005.png",
+        "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png",
+        "https://static.wikia.nocookie.net/pokemon/images/e/e8/006M.png",
+        "https://static.wikia.nocookie.net/pokemon/images/7/7e/006M2.png"
       ]
     },
-    "image": "https://raw.githubusercontent.com/yuttasartviratpan/pokemon-data/main/images/006.png",
-    "generation": 1
-  },
-  {
-    "id": 7,
-    "name": {
-      "english": "Squirtle",
-      "japanese": "ゼニガメ",
-      "chinese": "杰尼龟",
-      "french": "Carapuce"
-    },
-    "type": [
-      "Water"
-    ],
-    "base": {
-      "HP": 44,
-      "Attack": 48,
-      "Defense": 65,
-      "Sp. Attack": 50,
-      "Sp. Defense": 64,
-      "Speed": 43
-    },
-    "evolution": {
-      "next": [
-        [
-          "8",
-          "Level 16"
-        ]
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "Type 1": "Water",
+      "Type 2": null,
+      "Japanese Name": "ゼニガメ Zenigame",
+      "Species": "Tiny Turtle Pokémon",
+      "Ablilities": "Torrent",
+      "Evolution": "It evolves into Wartortle starting at level 16, and evolves into Blastoise starting at level 36.",
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/e/e8/007.png",
+      "Evolutionary line": [
+        "https://static.wikia.nocookie.net/pokemon/images/e/e8/007.png",
+        "https://static.wikia.nocookie.net/pokemon/images/1/17/008.png",
+        "https://static.wikia.nocookie.net/pokemon/images/d/d2/009.png",
+        "https://static.wikia.nocookie.net/pokemon/images/e/e7/009M.png"
       ]
     },
-    "image": "https://raw.githubusercontent.com/yuttasartviratpan/pokemon-data/main/images/007.png",
-    "generation": 1
-  },
-  {
-    "id": 8,
-    "name": {
-      "english": "Wartortle",
-      "japanese": "カメール",
-      "chinese": "卡咪龟",
-      "french": "Carabaffe"
-    },
-    "type": [
-      "Water"
-    ],
-    "base": {
-      "HP": 59,
-      "Attack": 63,
-      "Defense": 80,
-      "Sp. Attack": 65,
-      "Sp. Defense": 80,
-      "Speed": 58
-    },
-    "evolution": {
-      "prev": [
-        "7",
-        "Level 16"
-      ],
-      "next": [
-        [
-          "9",
-          "Level 36"
-        ]
+    {
+      "id": 8,
+      "name": "Wartortle",
+      "Type 1": "Water",
+      "Type 2": null,
+      "Japanese Name": "カメール Kameil",
+      "Species": "Turtle Pokémon",
+      "Ablilities": "Torrent",
+      "Evolution": "Wartortle evolves from Squirtle starting at level 16, and evolves into Blastoise starting at level 36.",
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/17/008.png",
+      "Evolutionary line": [
+        "https://static.wikia.nocookie.net/pokemon/images/e/e8/007.png",
+        "https://static.wikia.nocookie.net/pokemon/images/1/17/008.png",
+        "https://static.wikia.nocookie.net/pokemon/images/d/d2/009.png",
+        "https://static.wikia.nocookie.net/pokemon/images/e/e7/009M.png"
       ]
     },
-    "image": "https://raw.githubusercontent.com/yuttasartviratpan/pokemon-data/main/images/008.png",
-    "generation": 1
-  },
-  {
-    "id": 9,
-    "name": {
-      "english": "Blastoise",
-      "japanese": "カメックス",
-      "chinese": "水箭龟",
-      "french": "Tortank"
-    },
-    "type": [
-      "Water"
-    ],
-    "base": {
-      "HP": 79,
-      "Attack": 83,
-      "Defense": 100,
-      "Sp. Attack": 85,
-      "Sp. Defense": 105,
-      "Speed": 78
-    },
-    "evolution": {
-      "prev": [
-        "8",
-        "Level 36"
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "Type 1": "Water",
+      "Type 2": null,
+      "Japanese Name": "カメックス Kamex",
+      "Species": "Shellfish Pokémon",
+      "Ablilities": "Torrent",
+      "Evolution": "Blastoise evolves from Wartortle starting at level 36. Blastoise can further evolve into Mega Blastoise using the Blastoisinite.",
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/d2/009.png",
+      "Evolutionary line": [
+        "https://static.wikia.nocookie.net/pokemon/images/e/e8/007.png",
+        "https://static.wikia.nocookie.net/pokemon/images/1/17/008.png",
+        "https://static.wikia.nocookie.net/pokemon/images/d/d2/009.png",
+        "https://static.wikia.nocookie.net/pokemon/images/e/e7/009M.png"
       ]
-    },
-    "image": "https://raw.githubusercontent.com/yuttasartviratpan/pokemon-data/main/images/009.png",
-    "generation": 1
-  }
-]
+    }
+  ]
+}
